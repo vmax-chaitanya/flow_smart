@@ -28,7 +28,7 @@
                             <span class="sub-title">A little story about us</span>
                             
                             <p>
-                             “A MSME Registered company”
+                            
                             An ISO 9001-2015 Certified Company is manufacturer and exporter of Food / Pharma / 
                             Medical Grade rubbers products.</p>
 
@@ -75,12 +75,12 @@
         <!-- End About Area -->
 
             <!-- Start Feedback Area -->
-    <section class="feedback-area ptb-100 bg-ebf5e7">
+    <!-- <section class="feedback-area ptb-100 bg-ebf5e7">
         <div class="container">
             <div class="section-title">
                 <h2>What Our Customers Say</h2>
-                <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et dolore magna aliqua.</p> -->
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                    et dolore magna aliqua.</p>
             </div>
 
             <div class="feedback-slides owl-carousel owl-theme">
@@ -106,13 +106,13 @@
                             <h3>
                                 <?php echo $val['name']; ?>
                             </h3>
-                            <!-- <span>Founder Lister Group</span> -->
+                            <span>Founder Lister Group</span>
                         </div>
                     </div>
                 <?php } ?>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- End Feedback Area -->
 
         <!-- Start Team Area -->

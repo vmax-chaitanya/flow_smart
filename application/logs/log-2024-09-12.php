@@ -5085,3 +5085,3066 @@ DEBUG - 2024-09-12 11:19:19 --> Global POST, GET and COOKIE data sanitized
 INFO - 2024-09-12 11:19:19 --> Input Class Initialized
 INFO - 2024-09-12 11:19:19 --> Language Class Initialized
 ERROR - 2024-09-12 11:19:19 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 11:24:58 --> Config Class Initialized
+INFO - 2024-09-12 11:24:58 --> Hooks Class Initialized
+DEBUG - 2024-09-12 11:24:58 --> UTF-8 Support Enabled
+INFO - 2024-09-12 11:24:58 --> Utf8 Class Initialized
+INFO - 2024-09-12 11:24:58 --> URI Class Initialized
+INFO - 2024-09-12 11:24:58 --> Router Class Initialized
+INFO - 2024-09-12 11:24:58 --> Output Class Initialized
+INFO - 2024-09-12 11:24:58 --> Security Class Initialized
+DEBUG - 2024-09-12 11:24:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 11:24:58 --> Input Class Initialized
+INFO - 2024-09-12 11:24:58 --> Language Class Initialized
+INFO - 2024-09-12 11:24:58 --> Loader Class Initialized
+INFO - 2024-09-12 11:24:58 --> Helper loaded: url_helper
+INFO - 2024-09-12 11:24:58 --> Helper loaded: file_helper
+INFO - 2024-09-12 11:24:58 --> Database Driver Class Initialized
+INFO - 2024-09-12 11:24:58 --> Email Class Initialized
+DEBUG - 2024-09-12 11:24:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 11:24:58 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 11:24:58 --> Controller Class Initialized
+INFO - 2024-09-12 11:24:58 --> Model "Contact_model" initialized
+INFO - 2024-09-12 11:24:58 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 11:24:58 --> Model "Home_model" initialized
+INFO - 2024-09-12 11:24:58 --> Helper loaded: download_helper
+INFO - 2024-09-12 11:24:58 --> Helper loaded: form_helper
+INFO - 2024-09-12 11:24:58 --> Form Validation Class Initialized
+INFO - 2024-09-12 11:24:58 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 11:24:58 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 11:24:58 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/products.php
+INFO - 2024-09-12 11:24:58 --> Final output sent to browser
+DEBUG - 2024-09-12 11:24:58 --> Total execution time: 0.0950
+INFO - 2024-09-12 11:24:58 --> Config Class Initialized
+INFO - 2024-09-12 11:24:58 --> Hooks Class Initialized
+DEBUG - 2024-09-12 11:24:58 --> UTF-8 Support Enabled
+INFO - 2024-09-12 11:24:58 --> Utf8 Class Initialized
+INFO - 2024-09-12 11:24:58 --> URI Class Initialized
+INFO - 2024-09-12 11:24:58 --> Router Class Initialized
+INFO - 2024-09-12 11:24:58 --> Output Class Initialized
+INFO - 2024-09-12 11:24:58 --> Security Class Initialized
+DEBUG - 2024-09-12 11:24:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 11:24:58 --> Input Class Initialized
+INFO - 2024-09-12 11:24:58 --> Language Class Initialized
+INFO - 2024-09-12 11:24:58 --> Config Class Initialized
+INFO - 2024-09-12 11:24:58 --> Hooks Class Initialized
+ERROR - 2024-09-12 11:24:58 --> 404 Page Not Found: Assets/home
+DEBUG - 2024-09-12 11:24:58 --> UTF-8 Support Enabled
+INFO - 2024-09-12 11:24:58 --> Utf8 Class Initialized
+INFO - 2024-09-12 11:24:58 --> URI Class Initialized
+INFO - 2024-09-12 11:24:58 --> Router Class Initialized
+INFO - 2024-09-12 11:24:58 --> Output Class Initialized
+INFO - 2024-09-12 11:24:58 --> Security Class Initialized
+DEBUG - 2024-09-12 11:24:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 11:24:58 --> Input Class Initialized
+INFO - 2024-09-12 11:24:58 --> Language Class Initialized
+ERROR - 2024-09-12 11:24:58 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 11:25:00 --> Config Class Initialized
+INFO - 2024-09-12 11:25:00 --> Hooks Class Initialized
+DEBUG - 2024-09-12 11:25:00 --> UTF-8 Support Enabled
+INFO - 2024-09-12 11:25:00 --> Utf8 Class Initialized
+INFO - 2024-09-12 11:25:00 --> URI Class Initialized
+INFO - 2024-09-12 11:25:00 --> Router Class Initialized
+INFO - 2024-09-12 11:25:00 --> Output Class Initialized
+INFO - 2024-09-12 11:25:00 --> Security Class Initialized
+DEBUG - 2024-09-12 11:25:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 11:25:00 --> Input Class Initialized
+INFO - 2024-09-12 11:25:00 --> Language Class Initialized
+ERROR - 2024-09-12 11:25:00 --> 404 Page Not Found: Assets/img
+INFO - 2024-09-12 12:42:20 --> Config Class Initialized
+INFO - 2024-09-12 12:42:20 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:42:20 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:42:20 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:42:20 --> URI Class Initialized
+DEBUG - 2024-09-12 12:42:20 --> No URI present. Default controller set.
+INFO - 2024-09-12 12:42:20 --> Router Class Initialized
+INFO - 2024-09-12 12:42:20 --> Output Class Initialized
+INFO - 2024-09-12 12:42:20 --> Security Class Initialized
+DEBUG - 2024-09-12 12:42:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:42:20 --> Input Class Initialized
+INFO - 2024-09-12 12:42:20 --> Language Class Initialized
+INFO - 2024-09-12 12:42:20 --> Loader Class Initialized
+INFO - 2024-09-12 12:42:20 --> Helper loaded: url_helper
+INFO - 2024-09-12 12:42:20 --> Helper loaded: file_helper
+INFO - 2024-09-12 12:42:20 --> Database Driver Class Initialized
+INFO - 2024-09-12 12:42:20 --> Email Class Initialized
+DEBUG - 2024-09-12 12:42:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 12:42:20 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 12:42:20 --> Controller Class Initialized
+INFO - 2024-09-12 12:42:20 --> Model "Contact_model" initialized
+INFO - 2024-09-12 12:42:20 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 12:42:20 --> Model "Home_model" initialized
+INFO - 2024-09-12 12:42:20 --> Helper loaded: download_helper
+INFO - 2024-09-12 12:42:20 --> Helper loaded: form_helper
+INFO - 2024-09-12 12:42:20 --> Form Validation Class Initialized
+INFO - 2024-09-12 12:42:20 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 12:42:20 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 12:42:20 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 12:42:20 --> Final output sent to browser
+DEBUG - 2024-09-12 12:42:20 --> Total execution time: 0.0696
+INFO - 2024-09-12 12:42:20 --> Config Class Initialized
+INFO - 2024-09-12 12:42:20 --> Config Class Initialized
+INFO - 2024-09-12 12:42:20 --> Hooks Class Initialized
+INFO - 2024-09-12 12:42:20 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:42:20 --> UTF-8 Support Enabled
+DEBUG - 2024-09-12 12:42:20 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:42:20 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:42:20 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:42:20 --> Config Class Initialized
+INFO - 2024-09-12 12:42:20 --> Hooks Class Initialized
+INFO - 2024-09-12 12:42:20 --> URI Class Initialized
+INFO - 2024-09-12 12:42:20 --> URI Class Initialized
+DEBUG - 2024-09-12 12:42:20 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:42:20 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:42:20 --> Router Class Initialized
+INFO - 2024-09-12 12:42:20 --> Router Class Initialized
+INFO - 2024-09-12 12:42:20 --> URI Class Initialized
+INFO - 2024-09-12 12:42:20 --> Output Class Initialized
+INFO - 2024-09-12 12:42:20 --> Output Class Initialized
+INFO - 2024-09-12 12:42:20 --> Router Class Initialized
+INFO - 2024-09-12 12:42:20 --> Output Class Initialized
+INFO - 2024-09-12 12:42:20 --> Security Class Initialized
+INFO - 2024-09-12 12:42:20 --> Security Class Initialized
+INFO - 2024-09-12 12:42:20 --> Security Class Initialized
+DEBUG - 2024-09-12 12:42:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:42:20 --> Input Class Initialized
+DEBUG - 2024-09-12 12:42:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:42:20 --> Input Class Initialized
+DEBUG - 2024-09-12 12:42:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:42:20 --> Language Class Initialized
+INFO - 2024-09-12 12:42:20 --> Input Class Initialized
+INFO - 2024-09-12 12:42:20 --> Language Class Initialized
+INFO - 2024-09-12 12:42:20 --> Language Class Initialized
+ERROR - 2024-09-12 12:42:20 --> 404 Page Not Found: Assets/home
+ERROR - 2024-09-12 12:42:20 --> 404 Page Not Found: Assets/home
+ERROR - 2024-09-12 12:42:20 --> 404 Page Not Found: Assets/img
+INFO - 2024-09-12 12:42:21 --> Config Class Initialized
+INFO - 2024-09-12 12:42:21 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:42:21 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:42:21 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:42:21 --> URI Class Initialized
+INFO - 2024-09-12 12:42:21 --> Router Class Initialized
+INFO - 2024-09-12 12:42:21 --> Output Class Initialized
+INFO - 2024-09-12 12:42:21 --> Security Class Initialized
+DEBUG - 2024-09-12 12:42:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:42:21 --> Input Class Initialized
+INFO - 2024-09-12 12:42:21 --> Language Class Initialized
+ERROR - 2024-09-12 12:42:21 --> 404 Page Not Found: Assets/img
+INFO - 2024-09-12 12:42:22 --> Config Class Initialized
+INFO - 2024-09-12 12:42:22 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:42:22 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:42:22 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:42:22 --> URI Class Initialized
+DEBUG - 2024-09-12 12:42:22 --> No URI present. Default controller set.
+INFO - 2024-09-12 12:42:22 --> Router Class Initialized
+INFO - 2024-09-12 12:42:22 --> Output Class Initialized
+INFO - 2024-09-12 12:42:22 --> Security Class Initialized
+DEBUG - 2024-09-12 12:42:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:42:22 --> Input Class Initialized
+INFO - 2024-09-12 12:42:22 --> Language Class Initialized
+INFO - 2024-09-12 12:42:22 --> Loader Class Initialized
+INFO - 2024-09-12 12:42:22 --> Helper loaded: url_helper
+INFO - 2024-09-12 12:42:22 --> Helper loaded: file_helper
+INFO - 2024-09-12 12:42:22 --> Database Driver Class Initialized
+INFO - 2024-09-12 12:42:22 --> Email Class Initialized
+DEBUG - 2024-09-12 12:42:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 12:42:22 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 12:42:22 --> Controller Class Initialized
+INFO - 2024-09-12 12:42:22 --> Model "Contact_model" initialized
+INFO - 2024-09-12 12:42:22 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 12:42:22 --> Model "Home_model" initialized
+INFO - 2024-09-12 12:42:22 --> Helper loaded: download_helper
+INFO - 2024-09-12 12:42:22 --> Helper loaded: form_helper
+INFO - 2024-09-12 12:42:22 --> Form Validation Class Initialized
+INFO - 2024-09-12 12:42:22 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 12:42:22 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 12:42:22 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 12:42:22 --> Final output sent to browser
+DEBUG - 2024-09-12 12:42:22 --> Total execution time: 0.0597
+INFO - 2024-09-12 12:42:22 --> Config Class Initialized
+INFO - 2024-09-12 12:42:22 --> Config Class Initialized
+INFO - 2024-09-12 12:42:22 --> Hooks Class Initialized
+INFO - 2024-09-12 12:42:22 --> Config Class Initialized
+INFO - 2024-09-12 12:42:22 --> Hooks Class Initialized
+INFO - 2024-09-12 12:42:22 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:42:22 --> UTF-8 Support Enabled
+DEBUG - 2024-09-12 12:42:22 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:42:22 --> Utf8 Class Initialized
+DEBUG - 2024-09-12 12:42:22 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:42:22 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:42:22 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:42:22 --> URI Class Initialized
+INFO - 2024-09-12 12:42:22 --> URI Class Initialized
+INFO - 2024-09-12 12:42:22 --> URI Class Initialized
+INFO - 2024-09-12 12:42:22 --> Router Class Initialized
+INFO - 2024-09-12 12:42:22 --> Router Class Initialized
+INFO - 2024-09-12 12:42:22 --> Router Class Initialized
+INFO - 2024-09-12 12:42:22 --> Output Class Initialized
+INFO - 2024-09-12 12:42:22 --> Output Class Initialized
+INFO - 2024-09-12 12:42:22 --> Output Class Initialized
+INFO - 2024-09-12 12:42:22 --> Security Class Initialized
+INFO - 2024-09-12 12:42:22 --> Security Class Initialized
+INFO - 2024-09-12 12:42:22 --> Security Class Initialized
+DEBUG - 2024-09-12 12:42:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-09-12 12:42:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:42:22 --> Input Class Initialized
+DEBUG - 2024-09-12 12:42:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:42:22 --> Input Class Initialized
+INFO - 2024-09-12 12:42:22 --> Language Class Initialized
+INFO - 2024-09-12 12:42:22 --> Input Class Initialized
+INFO - 2024-09-12 12:42:22 --> Language Class Initialized
+INFO - 2024-09-12 12:42:22 --> Language Class Initialized
+ERROR - 2024-09-12 12:42:22 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-12 12:42:22 --> 404 Page Not Found: Assets/home
+ERROR - 2024-09-12 12:42:22 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:42:26 --> Config Class Initialized
+INFO - 2024-09-12 12:42:26 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:42:26 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:42:26 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:42:26 --> URI Class Initialized
+DEBUG - 2024-09-12 12:42:26 --> No URI present. Default controller set.
+INFO - 2024-09-12 12:42:26 --> Router Class Initialized
+INFO - 2024-09-12 12:42:26 --> Output Class Initialized
+INFO - 2024-09-12 12:42:26 --> Security Class Initialized
+DEBUG - 2024-09-12 12:42:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:42:26 --> Input Class Initialized
+INFO - 2024-09-12 12:42:26 --> Language Class Initialized
+INFO - 2024-09-12 12:42:26 --> Loader Class Initialized
+INFO - 2024-09-12 12:42:26 --> Helper loaded: url_helper
+INFO - 2024-09-12 12:42:26 --> Helper loaded: file_helper
+INFO - 2024-09-12 12:42:26 --> Database Driver Class Initialized
+INFO - 2024-09-12 12:42:26 --> Email Class Initialized
+DEBUG - 2024-09-12 12:42:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 12:42:26 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 12:42:26 --> Controller Class Initialized
+INFO - 2024-09-12 12:42:26 --> Model "Contact_model" initialized
+INFO - 2024-09-12 12:42:26 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 12:42:26 --> Model "Home_model" initialized
+INFO - 2024-09-12 12:42:26 --> Helper loaded: download_helper
+INFO - 2024-09-12 12:42:26 --> Helper loaded: form_helper
+INFO - 2024-09-12 12:42:26 --> Form Validation Class Initialized
+INFO - 2024-09-12 12:42:26 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 12:42:26 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 12:42:26 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 12:42:26 --> Final output sent to browser
+DEBUG - 2024-09-12 12:42:26 --> Total execution time: 0.0541
+INFO - 2024-09-12 12:42:26 --> Config Class Initialized
+INFO - 2024-09-12 12:42:26 --> Hooks Class Initialized
+INFO - 2024-09-12 12:42:26 --> Config Class Initialized
+INFO - 2024-09-12 12:42:26 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:42:26 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:42:26 --> Config Class Initialized
+INFO - 2024-09-12 12:42:26 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:42:26 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:42:26 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:42:26 --> URI Class Initialized
+INFO - 2024-09-12 12:42:26 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:42:26 --> Router Class Initialized
+INFO - 2024-09-12 12:42:26 --> URI Class Initialized
+DEBUG - 2024-09-12 12:42:26 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:42:26 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:42:26 --> Output Class Initialized
+INFO - 2024-09-12 12:42:26 --> Router Class Initialized
+INFO - 2024-09-12 12:42:26 --> URI Class Initialized
+INFO - 2024-09-12 12:42:26 --> Security Class Initialized
+INFO - 2024-09-12 12:42:26 --> Router Class Initialized
+INFO - 2024-09-12 12:42:26 --> Output Class Initialized
+DEBUG - 2024-09-12 12:42:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:42:26 --> Input Class Initialized
+INFO - 2024-09-12 12:42:26 --> Security Class Initialized
+INFO - 2024-09-12 12:42:26 --> Output Class Initialized
+INFO - 2024-09-12 12:42:26 --> Language Class Initialized
+DEBUG - 2024-09-12 12:42:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:42:26 --> Input Class Initialized
+ERROR - 2024-09-12 12:42:26 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:42:26 --> Security Class Initialized
+INFO - 2024-09-12 12:42:26 --> Language Class Initialized
+DEBUG - 2024-09-12 12:42:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:42:26 --> Input Class Initialized
+ERROR - 2024-09-12 12:42:26 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:42:26 --> Language Class Initialized
+ERROR - 2024-09-12 12:42:26 --> 404 Page Not Found: Assets/img
+INFO - 2024-09-12 12:42:37 --> Config Class Initialized
+INFO - 2024-09-12 12:42:37 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:42:37 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:42:37 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:42:37 --> URI Class Initialized
+DEBUG - 2024-09-12 12:42:37 --> No URI present. Default controller set.
+INFO - 2024-09-12 12:42:37 --> Router Class Initialized
+INFO - 2024-09-12 12:42:37 --> Output Class Initialized
+INFO - 2024-09-12 12:42:37 --> Security Class Initialized
+DEBUG - 2024-09-12 12:42:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:42:37 --> Input Class Initialized
+INFO - 2024-09-12 12:42:37 --> Language Class Initialized
+INFO - 2024-09-12 12:42:37 --> Loader Class Initialized
+INFO - 2024-09-12 12:42:37 --> Helper loaded: url_helper
+INFO - 2024-09-12 12:42:37 --> Helper loaded: file_helper
+INFO - 2024-09-12 12:42:37 --> Database Driver Class Initialized
+INFO - 2024-09-12 12:42:37 --> Email Class Initialized
+DEBUG - 2024-09-12 12:42:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 12:42:37 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 12:42:37 --> Controller Class Initialized
+INFO - 2024-09-12 12:42:37 --> Model "Contact_model" initialized
+INFO - 2024-09-12 12:42:37 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 12:42:37 --> Model "Home_model" initialized
+INFO - 2024-09-12 12:42:37 --> Helper loaded: download_helper
+INFO - 2024-09-12 12:42:37 --> Helper loaded: form_helper
+INFO - 2024-09-12 12:42:37 --> Form Validation Class Initialized
+INFO - 2024-09-12 12:42:37 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 12:42:37 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 12:42:37 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 12:42:37 --> Final output sent to browser
+DEBUG - 2024-09-12 12:42:37 --> Total execution time: 0.0633
+INFO - 2024-09-12 12:42:37 --> Config Class Initialized
+INFO - 2024-09-12 12:42:37 --> Hooks Class Initialized
+INFO - 2024-09-12 12:42:37 --> Config Class Initialized
+INFO - 2024-09-12 12:42:37 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:42:37 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:42:37 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:42:37 --> Config Class Initialized
+DEBUG - 2024-09-12 12:42:37 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:42:37 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:42:37 --> Hooks Class Initialized
+INFO - 2024-09-12 12:42:37 --> URI Class Initialized
+INFO - 2024-09-12 12:42:37 --> URI Class Initialized
+DEBUG - 2024-09-12 12:42:37 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:42:37 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:42:37 --> Router Class Initialized
+INFO - 2024-09-12 12:42:37 --> Router Class Initialized
+INFO - 2024-09-12 12:42:37 --> URI Class Initialized
+INFO - 2024-09-12 12:42:37 --> Output Class Initialized
+INFO - 2024-09-12 12:42:37 --> Output Class Initialized
+INFO - 2024-09-12 12:42:37 --> Security Class Initialized
+INFO - 2024-09-12 12:42:37 --> Router Class Initialized
+DEBUG - 2024-09-12 12:42:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:42:37 --> Security Class Initialized
+INFO - 2024-09-12 12:42:37 --> Output Class Initialized
+INFO - 2024-09-12 12:42:37 --> Input Class Initialized
+DEBUG - 2024-09-12 12:42:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:42:37 --> Input Class Initialized
+INFO - 2024-09-12 12:42:37 --> Security Class Initialized
+INFO - 2024-09-12 12:42:37 --> Language Class Initialized
+INFO - 2024-09-12 12:42:37 --> Language Class Initialized
+DEBUG - 2024-09-12 12:42:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:42:37 --> Input Class Initialized
+ERROR - 2024-09-12 12:42:37 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:42:37 --> Language Class Initialized
+ERROR - 2024-09-12 12:42:37 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-12 12:42:37 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:43:17 --> Config Class Initialized
+INFO - 2024-09-12 12:43:17 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:43:17 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:43:17 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:43:17 --> URI Class Initialized
+DEBUG - 2024-09-12 12:43:17 --> No URI present. Default controller set.
+INFO - 2024-09-12 12:43:17 --> Router Class Initialized
+INFO - 2024-09-12 12:43:17 --> Output Class Initialized
+INFO - 2024-09-12 12:43:17 --> Security Class Initialized
+DEBUG - 2024-09-12 12:43:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:43:17 --> Input Class Initialized
+INFO - 2024-09-12 12:43:17 --> Language Class Initialized
+INFO - 2024-09-12 12:43:17 --> Loader Class Initialized
+INFO - 2024-09-12 12:43:17 --> Helper loaded: url_helper
+INFO - 2024-09-12 12:43:17 --> Helper loaded: file_helper
+INFO - 2024-09-12 12:43:17 --> Database Driver Class Initialized
+INFO - 2024-09-12 12:43:17 --> Email Class Initialized
+DEBUG - 2024-09-12 12:43:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 12:43:17 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 12:43:17 --> Controller Class Initialized
+INFO - 2024-09-12 12:43:17 --> Model "Contact_model" initialized
+INFO - 2024-09-12 12:43:17 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 12:43:17 --> Model "Home_model" initialized
+INFO - 2024-09-12 12:43:17 --> Helper loaded: download_helper
+INFO - 2024-09-12 12:43:17 --> Helper loaded: form_helper
+INFO - 2024-09-12 12:43:17 --> Form Validation Class Initialized
+INFO - 2024-09-12 12:43:17 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 12:43:17 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 12:43:17 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 12:43:17 --> Final output sent to browser
+DEBUG - 2024-09-12 12:43:17 --> Total execution time: 0.0650
+INFO - 2024-09-12 12:43:17 --> Config Class Initialized
+INFO - 2024-09-12 12:43:17 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:43:17 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:43:17 --> Config Class Initialized
+INFO - 2024-09-12 12:43:17 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:43:17 --> Hooks Class Initialized
+INFO - 2024-09-12 12:43:17 --> Config Class Initialized
+INFO - 2024-09-12 12:43:17 --> Hooks Class Initialized
+INFO - 2024-09-12 12:43:17 --> URI Class Initialized
+DEBUG - 2024-09-12 12:43:17 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:43:17 --> Utf8 Class Initialized
+DEBUG - 2024-09-12 12:43:17 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:43:17 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:43:17 --> URI Class Initialized
+INFO - 2024-09-12 12:43:17 --> Router Class Initialized
+INFO - 2024-09-12 12:43:17 --> URI Class Initialized
+INFO - 2024-09-12 12:43:17 --> Output Class Initialized
+INFO - 2024-09-12 12:43:17 --> Router Class Initialized
+INFO - 2024-09-12 12:43:17 --> Security Class Initialized
+INFO - 2024-09-12 12:43:17 --> Router Class Initialized
+DEBUG - 2024-09-12 12:43:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:43:17 --> Output Class Initialized
+INFO - 2024-09-12 12:43:17 --> Input Class Initialized
+INFO - 2024-09-12 12:43:17 --> Output Class Initialized
+INFO - 2024-09-12 12:43:17 --> Security Class Initialized
+INFO - 2024-09-12 12:43:17 --> Language Class Initialized
+INFO - 2024-09-12 12:43:17 --> Security Class Initialized
+DEBUG - 2024-09-12 12:43:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-09-12 12:43:17 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:43:17 --> Input Class Initialized
+DEBUG - 2024-09-12 12:43:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:43:17 --> Input Class Initialized
+INFO - 2024-09-12 12:43:17 --> Language Class Initialized
+INFO - 2024-09-12 12:43:17 --> Language Class Initialized
+ERROR - 2024-09-12 12:43:17 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-12 12:43:17 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:44:09 --> Config Class Initialized
+INFO - 2024-09-12 12:44:09 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:44:09 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:44:09 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:44:09 --> URI Class Initialized
+DEBUG - 2024-09-12 12:44:09 --> No URI present. Default controller set.
+INFO - 2024-09-12 12:44:09 --> Router Class Initialized
+INFO - 2024-09-12 12:44:09 --> Output Class Initialized
+INFO - 2024-09-12 12:44:09 --> Security Class Initialized
+DEBUG - 2024-09-12 12:44:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:44:09 --> Input Class Initialized
+INFO - 2024-09-12 12:44:09 --> Language Class Initialized
+INFO - 2024-09-12 12:44:09 --> Loader Class Initialized
+INFO - 2024-09-12 12:44:09 --> Helper loaded: url_helper
+INFO - 2024-09-12 12:44:09 --> Helper loaded: file_helper
+INFO - 2024-09-12 12:44:09 --> Database Driver Class Initialized
+INFO - 2024-09-12 12:44:09 --> Email Class Initialized
+DEBUG - 2024-09-12 12:44:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 12:44:09 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 12:44:09 --> Controller Class Initialized
+INFO - 2024-09-12 12:44:09 --> Model "Contact_model" initialized
+INFO - 2024-09-12 12:44:09 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 12:44:09 --> Model "Home_model" initialized
+INFO - 2024-09-12 12:44:09 --> Helper loaded: download_helper
+INFO - 2024-09-12 12:44:09 --> Helper loaded: form_helper
+INFO - 2024-09-12 12:44:09 --> Form Validation Class Initialized
+INFO - 2024-09-12 12:44:09 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 12:44:09 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 12:44:09 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 12:44:09 --> Final output sent to browser
+DEBUG - 2024-09-12 12:44:09 --> Total execution time: 0.0571
+INFO - 2024-09-12 12:44:09 --> Config Class Initialized
+INFO - 2024-09-12 12:44:09 --> Hooks Class Initialized
+INFO - 2024-09-12 12:44:09 --> Config Class Initialized
+INFO - 2024-09-12 12:44:09 --> Hooks Class Initialized
+INFO - 2024-09-12 12:44:09 --> Config Class Initialized
+INFO - 2024-09-12 12:44:09 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:44:09 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:44:09 --> Utf8 Class Initialized
+DEBUG - 2024-09-12 12:44:09 --> UTF-8 Support Enabled
+DEBUG - 2024-09-12 12:44:09 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:44:09 --> URI Class Initialized
+INFO - 2024-09-12 12:44:09 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:44:09 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:44:09 --> URI Class Initialized
+INFO - 2024-09-12 12:44:09 --> URI Class Initialized
+INFO - 2024-09-12 12:44:09 --> Router Class Initialized
+INFO - 2024-09-12 12:44:09 --> Router Class Initialized
+INFO - 2024-09-12 12:44:09 --> Router Class Initialized
+INFO - 2024-09-12 12:44:09 --> Output Class Initialized
+INFO - 2024-09-12 12:44:09 --> Output Class Initialized
+INFO - 2024-09-12 12:44:09 --> Security Class Initialized
+INFO - 2024-09-12 12:44:09 --> Security Class Initialized
+INFO - 2024-09-12 12:44:09 --> Output Class Initialized
+DEBUG - 2024-09-12 12:44:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-09-12 12:44:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:44:09 --> Input Class Initialized
+INFO - 2024-09-12 12:44:09 --> Security Class Initialized
+INFO - 2024-09-12 12:44:09 --> Input Class Initialized
+INFO - 2024-09-12 12:44:09 --> Language Class Initialized
+DEBUG - 2024-09-12 12:44:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:44:09 --> Language Class Initialized
+ERROR - 2024-09-12 12:44:09 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:44:09 --> Input Class Initialized
+ERROR - 2024-09-12 12:44:09 --> 404 Page Not Found: Assets/img
+INFO - 2024-09-12 12:44:09 --> Language Class Initialized
+ERROR - 2024-09-12 12:44:09 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:44:19 --> Config Class Initialized
+INFO - 2024-09-12 12:44:19 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:44:19 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:44:19 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:44:19 --> URI Class Initialized
+INFO - 2024-09-12 12:44:19 --> Router Class Initialized
+INFO - 2024-09-12 12:44:19 --> Output Class Initialized
+INFO - 2024-09-12 12:44:19 --> Security Class Initialized
+DEBUG - 2024-09-12 12:44:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:44:19 --> Input Class Initialized
+INFO - 2024-09-12 12:44:19 --> Language Class Initialized
+INFO - 2024-09-12 12:44:19 --> Loader Class Initialized
+INFO - 2024-09-12 12:44:19 --> Helper loaded: url_helper
+INFO - 2024-09-12 12:44:19 --> Helper loaded: file_helper
+INFO - 2024-09-12 12:44:19 --> Database Driver Class Initialized
+INFO - 2024-09-12 12:44:19 --> Email Class Initialized
+DEBUG - 2024-09-12 12:44:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 12:44:19 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 12:44:19 --> Controller Class Initialized
+INFO - 2024-09-12 12:44:19 --> Model "Contact_model" initialized
+INFO - 2024-09-12 12:44:19 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 12:44:19 --> Model "Home_model" initialized
+INFO - 2024-09-12 12:44:19 --> Helper loaded: download_helper
+INFO - 2024-09-12 12:44:19 --> Helper loaded: form_helper
+INFO - 2024-09-12 12:44:19 --> Form Validation Class Initialized
+INFO - 2024-09-12 12:44:19 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 12:44:19 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 12:44:19 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/about.php
+INFO - 2024-09-12 12:44:19 --> Final output sent to browser
+DEBUG - 2024-09-12 12:44:19 --> Total execution time: 0.0408
+INFO - 2024-09-12 12:44:19 --> Config Class Initialized
+INFO - 2024-09-12 12:44:19 --> Hooks Class Initialized
+INFO - 2024-09-12 12:44:19 --> Config Class Initialized
+INFO - 2024-09-12 12:44:19 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:44:19 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:44:19 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:44:19 --> URI Class Initialized
+DEBUG - 2024-09-12 12:44:19 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:44:19 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:44:19 --> Router Class Initialized
+INFO - 2024-09-12 12:44:19 --> URI Class Initialized
+INFO - 2024-09-12 12:44:19 --> Output Class Initialized
+INFO - 2024-09-12 12:44:19 --> Security Class Initialized
+INFO - 2024-09-12 12:44:19 --> Router Class Initialized
+DEBUG - 2024-09-12 12:44:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:44:19 --> Input Class Initialized
+INFO - 2024-09-12 12:44:19 --> Language Class Initialized
+INFO - 2024-09-12 12:44:19 --> Output Class Initialized
+ERROR - 2024-09-12 12:44:19 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:44:19 --> Security Class Initialized
+DEBUG - 2024-09-12 12:44:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:44:19 --> Input Class Initialized
+INFO - 2024-09-12 12:44:19 --> Language Class Initialized
+ERROR - 2024-09-12 12:44:19 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:46:22 --> Config Class Initialized
+INFO - 2024-09-12 12:46:22 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:46:22 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:46:22 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:46:22 --> URI Class Initialized
+INFO - 2024-09-12 12:46:22 --> Router Class Initialized
+INFO - 2024-09-12 12:46:22 --> Output Class Initialized
+INFO - 2024-09-12 12:46:22 --> Security Class Initialized
+DEBUG - 2024-09-12 12:46:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:46:22 --> Input Class Initialized
+INFO - 2024-09-12 12:46:22 --> Language Class Initialized
+INFO - 2024-09-12 12:46:22 --> Loader Class Initialized
+INFO - 2024-09-12 12:46:22 --> Helper loaded: url_helper
+INFO - 2024-09-12 12:46:22 --> Helper loaded: file_helper
+INFO - 2024-09-12 12:46:22 --> Database Driver Class Initialized
+INFO - 2024-09-12 12:46:22 --> Email Class Initialized
+DEBUG - 2024-09-12 12:46:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 12:46:22 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 12:46:22 --> Controller Class Initialized
+INFO - 2024-09-12 12:46:22 --> Model "Contact_model" initialized
+INFO - 2024-09-12 12:46:22 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 12:46:22 --> Model "Home_model" initialized
+INFO - 2024-09-12 12:46:22 --> Helper loaded: download_helper
+INFO - 2024-09-12 12:46:22 --> Helper loaded: form_helper
+INFO - 2024-09-12 12:46:22 --> Form Validation Class Initialized
+INFO - 2024-09-12 12:46:22 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 12:46:22 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 12:46:22 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/about.php
+INFO - 2024-09-12 12:46:22 --> Final output sent to browser
+DEBUG - 2024-09-12 12:46:22 --> Total execution time: 0.0691
+INFO - 2024-09-12 12:46:22 --> Config Class Initialized
+INFO - 2024-09-12 12:46:22 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:46:22 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:46:22 --> Config Class Initialized
+INFO - 2024-09-12 12:46:22 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:46:22 --> Hooks Class Initialized
+INFO - 2024-09-12 12:46:22 --> URI Class Initialized
+DEBUG - 2024-09-12 12:46:22 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:46:22 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:46:22 --> Router Class Initialized
+INFO - 2024-09-12 12:46:22 --> URI Class Initialized
+INFO - 2024-09-12 12:46:22 --> Output Class Initialized
+INFO - 2024-09-12 12:46:22 --> Router Class Initialized
+INFO - 2024-09-12 12:46:22 --> Security Class Initialized
+INFO - 2024-09-12 12:46:22 --> Output Class Initialized
+DEBUG - 2024-09-12 12:46:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:46:22 --> Input Class Initialized
+INFO - 2024-09-12 12:46:22 --> Security Class Initialized
+INFO - 2024-09-12 12:46:22 --> Language Class Initialized
+DEBUG - 2024-09-12 12:46:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-09-12 12:46:22 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:46:22 --> Input Class Initialized
+INFO - 2024-09-12 12:46:22 --> Language Class Initialized
+ERROR - 2024-09-12 12:46:22 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:47:09 --> Config Class Initialized
+INFO - 2024-09-12 12:47:09 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:47:09 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:47:09 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:47:09 --> URI Class Initialized
+INFO - 2024-09-12 12:47:09 --> Router Class Initialized
+INFO - 2024-09-12 12:47:09 --> Output Class Initialized
+INFO - 2024-09-12 12:47:09 --> Security Class Initialized
+DEBUG - 2024-09-12 12:47:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:47:09 --> Input Class Initialized
+INFO - 2024-09-12 12:47:09 --> Language Class Initialized
+INFO - 2024-09-12 12:47:09 --> Loader Class Initialized
+INFO - 2024-09-12 12:47:09 --> Helper loaded: url_helper
+INFO - 2024-09-12 12:47:09 --> Helper loaded: file_helper
+INFO - 2024-09-12 12:47:09 --> Database Driver Class Initialized
+INFO - 2024-09-12 12:47:09 --> Email Class Initialized
+DEBUG - 2024-09-12 12:47:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 12:47:09 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 12:47:09 --> Controller Class Initialized
+INFO - 2024-09-12 12:47:09 --> Model "Contact_model" initialized
+INFO - 2024-09-12 12:47:09 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 12:47:09 --> Model "Home_model" initialized
+INFO - 2024-09-12 12:47:09 --> Helper loaded: download_helper
+INFO - 2024-09-12 12:47:09 --> Helper loaded: form_helper
+INFO - 2024-09-12 12:47:09 --> Form Validation Class Initialized
+INFO - 2024-09-12 12:47:09 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 12:47:09 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 12:47:09 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/about.php
+INFO - 2024-09-12 12:47:09 --> Final output sent to browser
+DEBUG - 2024-09-12 12:47:09 --> Total execution time: 0.0643
+INFO - 2024-09-12 12:47:09 --> Config Class Initialized
+INFO - 2024-09-12 12:47:09 --> Hooks Class Initialized
+INFO - 2024-09-12 12:47:09 --> Config Class Initialized
+INFO - 2024-09-12 12:47:09 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:47:09 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:47:09 --> Utf8 Class Initialized
+DEBUG - 2024-09-12 12:47:09 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:47:09 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:47:09 --> URI Class Initialized
+INFO - 2024-09-12 12:47:09 --> URI Class Initialized
+INFO - 2024-09-12 12:47:09 --> Router Class Initialized
+INFO - 2024-09-12 12:47:09 --> Router Class Initialized
+INFO - 2024-09-12 12:47:09 --> Output Class Initialized
+INFO - 2024-09-12 12:47:09 --> Output Class Initialized
+INFO - 2024-09-12 12:47:09 --> Security Class Initialized
+INFO - 2024-09-12 12:47:09 --> Security Class Initialized
+DEBUG - 2024-09-12 12:47:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:47:09 --> Input Class Initialized
+DEBUG - 2024-09-12 12:47:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:47:09 --> Input Class Initialized
+INFO - 2024-09-12 12:47:09 --> Language Class Initialized
+INFO - 2024-09-12 12:47:09 --> Language Class Initialized
+ERROR - 2024-09-12 12:47:09 --> 404 Page Not Found: Assets/home
+ERROR - 2024-09-12 12:47:09 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:47:32 --> Config Class Initialized
+INFO - 2024-09-12 12:47:32 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:47:32 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:47:32 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:47:32 --> URI Class Initialized
+DEBUG - 2024-09-12 12:47:32 --> No URI present. Default controller set.
+INFO - 2024-09-12 12:47:32 --> Router Class Initialized
+INFO - 2024-09-12 12:47:32 --> Output Class Initialized
+INFO - 2024-09-12 12:47:32 --> Security Class Initialized
+DEBUG - 2024-09-12 12:47:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:47:32 --> Input Class Initialized
+INFO - 2024-09-12 12:47:32 --> Language Class Initialized
+INFO - 2024-09-12 12:47:32 --> Loader Class Initialized
+INFO - 2024-09-12 12:47:32 --> Helper loaded: url_helper
+INFO - 2024-09-12 12:47:32 --> Helper loaded: file_helper
+INFO - 2024-09-12 12:47:32 --> Database Driver Class Initialized
+INFO - 2024-09-12 12:47:32 --> Email Class Initialized
+DEBUG - 2024-09-12 12:47:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 12:47:32 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 12:47:32 --> Controller Class Initialized
+INFO - 2024-09-12 12:47:32 --> Model "Contact_model" initialized
+INFO - 2024-09-12 12:47:32 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 12:47:32 --> Model "Home_model" initialized
+INFO - 2024-09-12 12:47:32 --> Helper loaded: download_helper
+INFO - 2024-09-12 12:47:32 --> Helper loaded: form_helper
+INFO - 2024-09-12 12:47:32 --> Form Validation Class Initialized
+INFO - 2024-09-12 12:47:32 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 12:47:32 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 12:47:32 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 12:47:32 --> Final output sent to browser
+DEBUG - 2024-09-12 12:47:32 --> Total execution time: 0.0684
+INFO - 2024-09-12 12:47:32 --> Config Class Initialized
+INFO - 2024-09-12 12:47:32 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:47:32 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:47:32 --> Config Class Initialized
+INFO - 2024-09-12 12:47:32 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:47:32 --> Config Class Initialized
+INFO - 2024-09-12 12:47:32 --> Hooks Class Initialized
+INFO - 2024-09-12 12:47:32 --> Hooks Class Initialized
+INFO - 2024-09-12 12:47:32 --> URI Class Initialized
+INFO - 2024-09-12 12:47:32 --> Router Class Initialized
+DEBUG - 2024-09-12 12:47:32 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:47:32 --> Output Class Initialized
+INFO - 2024-09-12 12:47:32 --> Utf8 Class Initialized
+DEBUG - 2024-09-12 12:47:32 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:47:32 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:47:32 --> URI Class Initialized
+INFO - 2024-09-12 12:47:32 --> Security Class Initialized
+INFO - 2024-09-12 12:47:32 --> URI Class Initialized
+INFO - 2024-09-12 12:47:32 --> Router Class Initialized
+INFO - 2024-09-12 12:47:32 --> Router Class Initialized
+DEBUG - 2024-09-12 12:47:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:47:32 --> Output Class Initialized
+INFO - 2024-09-12 12:47:32 --> Input Class Initialized
+INFO - 2024-09-12 12:47:32 --> Output Class Initialized
+INFO - 2024-09-12 12:47:32 --> Language Class Initialized
+INFO - 2024-09-12 12:47:32 --> Security Class Initialized
+ERROR - 2024-09-12 12:47:32 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:47:32 --> Security Class Initialized
+DEBUG - 2024-09-12 12:47:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:47:32 --> Input Class Initialized
+DEBUG - 2024-09-12 12:47:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:47:32 --> Language Class Initialized
+INFO - 2024-09-12 12:47:32 --> Input Class Initialized
+INFO - 2024-09-12 12:47:32 --> Language Class Initialized
+ERROR - 2024-09-12 12:47:32 --> 404 Page Not Found: Assets/home
+ERROR - 2024-09-12 12:47:32 --> 404 Page Not Found: Assets/img
+INFO - 2024-09-12 12:47:54 --> Config Class Initialized
+INFO - 2024-09-12 12:47:54 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:47:54 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:47:54 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:47:54 --> URI Class Initialized
+INFO - 2024-09-12 12:47:54 --> Router Class Initialized
+INFO - 2024-09-12 12:47:54 --> Output Class Initialized
+INFO - 2024-09-12 12:47:54 --> Security Class Initialized
+DEBUG - 2024-09-12 12:47:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:47:54 --> Input Class Initialized
+INFO - 2024-09-12 12:47:54 --> Language Class Initialized
+INFO - 2024-09-12 12:47:54 --> Loader Class Initialized
+INFO - 2024-09-12 12:47:54 --> Helper loaded: url_helper
+INFO - 2024-09-12 12:47:54 --> Helper loaded: file_helper
+INFO - 2024-09-12 12:47:54 --> Database Driver Class Initialized
+INFO - 2024-09-12 12:47:54 --> Email Class Initialized
+DEBUG - 2024-09-12 12:47:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 12:47:54 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 12:47:54 --> Controller Class Initialized
+INFO - 2024-09-12 12:47:54 --> Model "Contact_model" initialized
+INFO - 2024-09-12 12:47:54 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 12:47:54 --> Model "Home_model" initialized
+INFO - 2024-09-12 12:47:54 --> Helper loaded: download_helper
+INFO - 2024-09-12 12:47:54 --> Helper loaded: form_helper
+INFO - 2024-09-12 12:47:54 --> Form Validation Class Initialized
+INFO - 2024-09-12 12:47:54 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 12:47:54 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 12:47:54 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/products.php
+INFO - 2024-09-12 12:47:54 --> Final output sent to browser
+DEBUG - 2024-09-12 12:47:54 --> Total execution time: 0.0477
+INFO - 2024-09-12 12:47:54 --> Config Class Initialized
+INFO - 2024-09-12 12:47:54 --> Hooks Class Initialized
+INFO - 2024-09-12 12:47:54 --> Config Class Initialized
+INFO - 2024-09-12 12:47:54 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:47:54 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:47:54 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:47:54 --> URI Class Initialized
+DEBUG - 2024-09-12 12:47:54 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:47:54 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:47:54 --> Router Class Initialized
+INFO - 2024-09-12 12:47:54 --> URI Class Initialized
+INFO - 2024-09-12 12:47:54 --> Output Class Initialized
+INFO - 2024-09-12 12:47:54 --> Security Class Initialized
+INFO - 2024-09-12 12:47:54 --> Router Class Initialized
+DEBUG - 2024-09-12 12:47:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:47:54 --> Input Class Initialized
+INFO - 2024-09-12 12:47:54 --> Output Class Initialized
+INFO - 2024-09-12 12:47:54 --> Language Class Initialized
+ERROR - 2024-09-12 12:47:54 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:47:54 --> Security Class Initialized
+DEBUG - 2024-09-12 12:47:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:47:54 --> Input Class Initialized
+INFO - 2024-09-12 12:47:54 --> Language Class Initialized
+ERROR - 2024-09-12 12:47:54 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:48:15 --> Config Class Initialized
+INFO - 2024-09-12 12:48:15 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:48:15 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:48:15 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:48:15 --> URI Class Initialized
+DEBUG - 2024-09-12 12:48:15 --> No URI present. Default controller set.
+INFO - 2024-09-12 12:48:15 --> Router Class Initialized
+INFO - 2024-09-12 12:48:15 --> Output Class Initialized
+INFO - 2024-09-12 12:48:15 --> Security Class Initialized
+DEBUG - 2024-09-12 12:48:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:48:15 --> Input Class Initialized
+INFO - 2024-09-12 12:48:15 --> Language Class Initialized
+INFO - 2024-09-12 12:48:15 --> Loader Class Initialized
+INFO - 2024-09-12 12:48:15 --> Helper loaded: url_helper
+INFO - 2024-09-12 12:48:15 --> Helper loaded: file_helper
+INFO - 2024-09-12 12:48:15 --> Database Driver Class Initialized
+INFO - 2024-09-12 12:48:15 --> Email Class Initialized
+DEBUG - 2024-09-12 12:48:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 12:48:15 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 12:48:15 --> Controller Class Initialized
+INFO - 2024-09-12 12:48:15 --> Model "Contact_model" initialized
+INFO - 2024-09-12 12:48:15 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 12:48:15 --> Model "Home_model" initialized
+INFO - 2024-09-12 12:48:15 --> Helper loaded: download_helper
+INFO - 2024-09-12 12:48:15 --> Helper loaded: form_helper
+INFO - 2024-09-12 12:48:15 --> Form Validation Class Initialized
+INFO - 2024-09-12 12:48:15 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 12:48:15 --> Email class already loaded. Second attempt ignored.
+ERROR - 2024-09-12 12:48:15 --> Severity: error --> Exception: syntax error, unexpected token "=" C:\xampp\htdocs\flow_smart\application\views\home\index.php 211
+INFO - 2024-09-12 12:48:18 --> Config Class Initialized
+INFO - 2024-09-12 12:48:18 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:48:18 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:48:18 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:48:18 --> URI Class Initialized
+DEBUG - 2024-09-12 12:48:18 --> No URI present. Default controller set.
+INFO - 2024-09-12 12:48:18 --> Router Class Initialized
+INFO - 2024-09-12 12:48:18 --> Output Class Initialized
+INFO - 2024-09-12 12:48:18 --> Security Class Initialized
+DEBUG - 2024-09-12 12:48:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:48:18 --> Input Class Initialized
+INFO - 2024-09-12 12:48:18 --> Language Class Initialized
+INFO - 2024-09-12 12:48:18 --> Loader Class Initialized
+INFO - 2024-09-12 12:48:18 --> Helper loaded: url_helper
+INFO - 2024-09-12 12:48:18 --> Helper loaded: file_helper
+INFO - 2024-09-12 12:48:18 --> Database Driver Class Initialized
+INFO - 2024-09-12 12:48:18 --> Email Class Initialized
+DEBUG - 2024-09-12 12:48:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 12:48:18 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 12:48:18 --> Controller Class Initialized
+INFO - 2024-09-12 12:48:18 --> Model "Contact_model" initialized
+INFO - 2024-09-12 12:48:18 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 12:48:18 --> Model "Home_model" initialized
+INFO - 2024-09-12 12:48:18 --> Helper loaded: download_helper
+INFO - 2024-09-12 12:48:18 --> Helper loaded: form_helper
+INFO - 2024-09-12 12:48:18 --> Form Validation Class Initialized
+INFO - 2024-09-12 12:48:18 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 12:48:18 --> Email class already loaded. Second attempt ignored.
+ERROR - 2024-09-12 12:48:18 --> Severity: error --> Exception: syntax error, unexpected token "=" C:\xampp\htdocs\flow_smart\application\views\home\index.php 211
+INFO - 2024-09-12 12:48:27 --> Config Class Initialized
+INFO - 2024-09-12 12:48:27 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:48:27 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:48:27 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:48:27 --> URI Class Initialized
+DEBUG - 2024-09-12 12:48:27 --> No URI present. Default controller set.
+INFO - 2024-09-12 12:48:27 --> Router Class Initialized
+INFO - 2024-09-12 12:48:27 --> Output Class Initialized
+INFO - 2024-09-12 12:48:27 --> Security Class Initialized
+DEBUG - 2024-09-12 12:48:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:48:27 --> Input Class Initialized
+INFO - 2024-09-12 12:48:27 --> Language Class Initialized
+INFO - 2024-09-12 12:48:27 --> Loader Class Initialized
+INFO - 2024-09-12 12:48:27 --> Helper loaded: url_helper
+INFO - 2024-09-12 12:48:27 --> Helper loaded: file_helper
+INFO - 2024-09-12 12:48:27 --> Database Driver Class Initialized
+INFO - 2024-09-12 12:48:27 --> Email Class Initialized
+DEBUG - 2024-09-12 12:48:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 12:48:27 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 12:48:27 --> Controller Class Initialized
+INFO - 2024-09-12 12:48:27 --> Model "Contact_model" initialized
+INFO - 2024-09-12 12:48:27 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 12:48:27 --> Model "Home_model" initialized
+INFO - 2024-09-12 12:48:27 --> Helper loaded: download_helper
+INFO - 2024-09-12 12:48:27 --> Helper loaded: form_helper
+INFO - 2024-09-12 12:48:27 --> Form Validation Class Initialized
+INFO - 2024-09-12 12:48:27 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 12:48:27 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 12:48:27 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 12:48:27 --> Final output sent to browser
+DEBUG - 2024-09-12 12:48:27 --> Total execution time: 0.0482
+INFO - 2024-09-12 12:48:27 --> Config Class Initialized
+INFO - 2024-09-12 12:48:27 --> Hooks Class Initialized
+INFO - 2024-09-12 12:48:27 --> Config Class Initialized
+INFO - 2024-09-12 12:48:27 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:48:27 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:48:27 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:48:27 --> Config Class Initialized
+INFO - 2024-09-12 12:48:27 --> URI Class Initialized
+DEBUG - 2024-09-12 12:48:27 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:48:27 --> Hooks Class Initialized
+INFO - 2024-09-12 12:48:27 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:48:27 --> Router Class Initialized
+INFO - 2024-09-12 12:48:27 --> URI Class Initialized
+INFO - 2024-09-12 12:48:27 --> Output Class Initialized
+DEBUG - 2024-09-12 12:48:27 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:48:27 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:48:27 --> Security Class Initialized
+INFO - 2024-09-12 12:48:27 --> Router Class Initialized
+INFO - 2024-09-12 12:48:27 --> URI Class Initialized
+DEBUG - 2024-09-12 12:48:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:48:27 --> Input Class Initialized
+INFO - 2024-09-12 12:48:27 --> Router Class Initialized
+INFO - 2024-09-12 12:48:27 --> Language Class Initialized
+INFO - 2024-09-12 12:48:27 --> Output Class Initialized
+INFO - 2024-09-12 12:48:27 --> Output Class Initialized
+ERROR - 2024-09-12 12:48:27 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:48:27 --> Security Class Initialized
+INFO - 2024-09-12 12:48:27 --> Security Class Initialized
+DEBUG - 2024-09-12 12:48:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:48:27 --> Input Class Initialized
+INFO - 2024-09-12 12:48:27 --> Language Class Initialized
+DEBUG - 2024-09-12 12:48:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:48:27 --> Input Class Initialized
+ERROR - 2024-09-12 12:48:27 --> 404 Page Not Found: Assets/img
+INFO - 2024-09-12 12:48:27 --> Language Class Initialized
+ERROR - 2024-09-12 12:48:27 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:48:54 --> Config Class Initialized
+INFO - 2024-09-12 12:48:54 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:48:54 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:48:54 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:48:54 --> URI Class Initialized
+INFO - 2024-09-12 12:48:54 --> Router Class Initialized
+INFO - 2024-09-12 12:48:54 --> Output Class Initialized
+INFO - 2024-09-12 12:48:54 --> Security Class Initialized
+DEBUG - 2024-09-12 12:48:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:48:54 --> Input Class Initialized
+INFO - 2024-09-12 12:48:54 --> Language Class Initialized
+INFO - 2024-09-12 12:48:54 --> Loader Class Initialized
+INFO - 2024-09-12 12:48:54 --> Helper loaded: url_helper
+INFO - 2024-09-12 12:48:54 --> Helper loaded: file_helper
+INFO - 2024-09-12 12:48:54 --> Database Driver Class Initialized
+INFO - 2024-09-12 12:48:55 --> Email Class Initialized
+DEBUG - 2024-09-12 12:48:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 12:48:55 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 12:48:55 --> Controller Class Initialized
+INFO - 2024-09-12 12:48:55 --> Model "Contact_model" initialized
+INFO - 2024-09-12 12:48:55 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 12:48:55 --> Model "Home_model" initialized
+INFO - 2024-09-12 12:48:55 --> Helper loaded: download_helper
+INFO - 2024-09-12 12:48:55 --> Helper loaded: form_helper
+INFO - 2024-09-12 12:48:55 --> Form Validation Class Initialized
+INFO - 2024-09-12 12:48:55 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 12:48:55 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 12:48:55 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/products.php
+INFO - 2024-09-12 12:48:55 --> Final output sent to browser
+DEBUG - 2024-09-12 12:48:55 --> Total execution time: 0.0609
+INFO - 2024-09-12 12:48:55 --> Config Class Initialized
+INFO - 2024-09-12 12:48:55 --> Hooks Class Initialized
+INFO - 2024-09-12 12:48:55 --> Config Class Initialized
+INFO - 2024-09-12 12:48:55 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:48:55 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:48:55 --> Utf8 Class Initialized
+DEBUG - 2024-09-12 12:48:55 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:48:55 --> URI Class Initialized
+INFO - 2024-09-12 12:48:55 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:48:55 --> URI Class Initialized
+INFO - 2024-09-12 12:48:55 --> Router Class Initialized
+INFO - 2024-09-12 12:48:55 --> Output Class Initialized
+INFO - 2024-09-12 12:48:55 --> Router Class Initialized
+INFO - 2024-09-12 12:48:55 --> Security Class Initialized
+DEBUG - 2024-09-12 12:48:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:48:55 --> Input Class Initialized
+INFO - 2024-09-12 12:48:55 --> Output Class Initialized
+INFO - 2024-09-12 12:48:55 --> Language Class Initialized
+INFO - 2024-09-12 12:48:55 --> Security Class Initialized
+ERROR - 2024-09-12 12:48:55 --> 404 Page Not Found: Assets/home
+DEBUG - 2024-09-12 12:48:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:48:55 --> Input Class Initialized
+INFO - 2024-09-12 12:48:55 --> Language Class Initialized
+ERROR - 2024-09-12 12:48:55 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:49:11 --> Config Class Initialized
+INFO - 2024-09-12 12:49:11 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:49:11 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:49:11 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:49:11 --> URI Class Initialized
+DEBUG - 2024-09-12 12:49:11 --> No URI present. Default controller set.
+INFO - 2024-09-12 12:49:11 --> Router Class Initialized
+INFO - 2024-09-12 12:49:11 --> Output Class Initialized
+INFO - 2024-09-12 12:49:11 --> Security Class Initialized
+DEBUG - 2024-09-12 12:49:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:49:11 --> Input Class Initialized
+INFO - 2024-09-12 12:49:11 --> Language Class Initialized
+INFO - 2024-09-12 12:49:11 --> Loader Class Initialized
+INFO - 2024-09-12 12:49:11 --> Helper loaded: url_helper
+INFO - 2024-09-12 12:49:11 --> Helper loaded: file_helper
+INFO - 2024-09-12 12:49:11 --> Database Driver Class Initialized
+INFO - 2024-09-12 12:49:11 --> Email Class Initialized
+DEBUG - 2024-09-12 12:49:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 12:49:11 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 12:49:11 --> Controller Class Initialized
+INFO - 2024-09-12 12:49:11 --> Model "Contact_model" initialized
+INFO - 2024-09-12 12:49:11 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 12:49:11 --> Model "Home_model" initialized
+INFO - 2024-09-12 12:49:11 --> Helper loaded: download_helper
+INFO - 2024-09-12 12:49:11 --> Helper loaded: form_helper
+INFO - 2024-09-12 12:49:11 --> Form Validation Class Initialized
+INFO - 2024-09-12 12:49:11 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 12:49:11 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 12:49:11 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 12:49:11 --> Final output sent to browser
+DEBUG - 2024-09-12 12:49:11 --> Total execution time: 0.0630
+INFO - 2024-09-12 12:49:11 --> Config Class Initialized
+INFO - 2024-09-12 12:49:11 --> Hooks Class Initialized
+INFO - 2024-09-12 12:49:11 --> Config Class Initialized
+INFO - 2024-09-12 12:49:11 --> Config Class Initialized
+INFO - 2024-09-12 12:49:11 --> Hooks Class Initialized
+INFO - 2024-09-12 12:49:11 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:49:11 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:49:11 --> Utf8 Class Initialized
+DEBUG - 2024-09-12 12:49:11 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:49:11 --> URI Class Initialized
+INFO - 2024-09-12 12:49:11 --> Utf8 Class Initialized
+DEBUG - 2024-09-12 12:49:11 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:49:11 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:49:11 --> URI Class Initialized
+INFO - 2024-09-12 12:49:11 --> Router Class Initialized
+INFO - 2024-09-12 12:49:11 --> URI Class Initialized
+INFO - 2024-09-12 12:49:11 --> Router Class Initialized
+INFO - 2024-09-12 12:49:11 --> Output Class Initialized
+INFO - 2024-09-12 12:49:11 --> Router Class Initialized
+INFO - 2024-09-12 12:49:11 --> Output Class Initialized
+INFO - 2024-09-12 12:49:11 --> Security Class Initialized
+INFO - 2024-09-12 12:49:11 --> Security Class Initialized
+INFO - 2024-09-12 12:49:11 --> Output Class Initialized
+DEBUG - 2024-09-12 12:49:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:49:11 --> Input Class Initialized
+DEBUG - 2024-09-12 12:49:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:49:11 --> Language Class Initialized
+INFO - 2024-09-12 12:49:11 --> Security Class Initialized
+INFO - 2024-09-12 12:49:11 --> Input Class Initialized
+INFO - 2024-09-12 12:49:11 --> Language Class Initialized
+ERROR - 2024-09-12 12:49:11 --> 404 Page Not Found: Assets/home
+DEBUG - 2024-09-12 12:49:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:49:11 --> Input Class Initialized
+ERROR - 2024-09-12 12:49:11 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:49:11 --> Language Class Initialized
+ERROR - 2024-09-12 12:49:11 --> 404 Page Not Found: Assets/img
+INFO - 2024-09-12 12:54:22 --> Config Class Initialized
+INFO - 2024-09-12 12:54:22 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:54:22 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:54:22 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:54:22 --> URI Class Initialized
+DEBUG - 2024-09-12 12:54:22 --> No URI present. Default controller set.
+INFO - 2024-09-12 12:54:22 --> Router Class Initialized
+INFO - 2024-09-12 12:54:22 --> Output Class Initialized
+INFO - 2024-09-12 12:54:22 --> Security Class Initialized
+DEBUG - 2024-09-12 12:54:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:54:22 --> Input Class Initialized
+INFO - 2024-09-12 12:54:22 --> Language Class Initialized
+INFO - 2024-09-12 12:54:22 --> Loader Class Initialized
+INFO - 2024-09-12 12:54:22 --> Helper loaded: url_helper
+INFO - 2024-09-12 12:54:22 --> Helper loaded: file_helper
+INFO - 2024-09-12 12:54:22 --> Database Driver Class Initialized
+INFO - 2024-09-12 12:54:22 --> Email Class Initialized
+DEBUG - 2024-09-12 12:54:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 12:54:22 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 12:54:22 --> Controller Class Initialized
+INFO - 2024-09-12 12:54:22 --> Model "Contact_model" initialized
+INFO - 2024-09-12 12:54:22 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 12:54:22 --> Model "Home_model" initialized
+INFO - 2024-09-12 12:54:22 --> Helper loaded: download_helper
+INFO - 2024-09-12 12:54:22 --> Helper loaded: form_helper
+INFO - 2024-09-12 12:54:22 --> Form Validation Class Initialized
+INFO - 2024-09-12 12:54:22 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 12:54:22 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 12:54:22 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 12:54:22 --> Final output sent to browser
+DEBUG - 2024-09-12 12:54:22 --> Total execution time: 0.0661
+INFO - 2024-09-12 12:54:22 --> Config Class Initialized
+INFO - 2024-09-12 12:54:22 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:54:22 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:54:22 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:54:22 --> URI Class Initialized
+INFO - 2024-09-12 12:54:22 --> Router Class Initialized
+INFO - 2024-09-12 12:54:22 --> Output Class Initialized
+INFO - 2024-09-12 12:54:22 --> Security Class Initialized
+DEBUG - 2024-09-12 12:54:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:54:22 --> Input Class Initialized
+INFO - 2024-09-12 12:54:22 --> Language Class Initialized
+ERROR - 2024-09-12 12:54:22 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:54:22 --> Config Class Initialized
+INFO - 2024-09-12 12:54:22 --> Hooks Class Initialized
+DEBUG - 2024-09-12 12:54:22 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:54:22 --> Utf8 Class Initialized
+INFO - 2024-09-12 12:54:22 --> URI Class Initialized
+INFO - 2024-09-12 12:54:22 --> Router Class Initialized
+INFO - 2024-09-12 12:54:22 --> Output Class Initialized
+INFO - 2024-09-12 12:54:22 --> Config Class Initialized
+INFO - 2024-09-12 12:54:22 --> Hooks Class Initialized
+INFO - 2024-09-12 12:54:22 --> Security Class Initialized
+DEBUG - 2024-09-12 12:54:22 --> UTF-8 Support Enabled
+INFO - 2024-09-12 12:54:22 --> Utf8 Class Initialized
+DEBUG - 2024-09-12 12:54:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:54:22 --> Input Class Initialized
+INFO - 2024-09-12 12:54:22 --> URI Class Initialized
+INFO - 2024-09-12 12:54:22 --> Language Class Initialized
+INFO - 2024-09-12 12:54:22 --> Router Class Initialized
+ERROR - 2024-09-12 12:54:22 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 12:54:22 --> Output Class Initialized
+INFO - 2024-09-12 12:54:22 --> Security Class Initialized
+DEBUG - 2024-09-12 12:54:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 12:54:22 --> Input Class Initialized
+INFO - 2024-09-12 12:54:22 --> Language Class Initialized
+ERROR - 2024-09-12 12:54:22 --> 404 Page Not Found: Assets/img
+INFO - 2024-09-12 14:13:45 --> Config Class Initialized
+INFO - 2024-09-12 14:13:45 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:13:45 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:13:45 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:13:45 --> URI Class Initialized
+DEBUG - 2024-09-12 14:13:45 --> No URI present. Default controller set.
+INFO - 2024-09-12 14:13:45 --> Router Class Initialized
+INFO - 2024-09-12 14:13:45 --> Output Class Initialized
+INFO - 2024-09-12 14:13:45 --> Security Class Initialized
+DEBUG - 2024-09-12 14:13:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:13:45 --> Input Class Initialized
+INFO - 2024-09-12 14:13:45 --> Language Class Initialized
+INFO - 2024-09-12 14:13:45 --> Loader Class Initialized
+INFO - 2024-09-12 14:13:45 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:13:45 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:13:45 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:13:45 --> Email Class Initialized
+DEBUG - 2024-09-12 14:13:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:13:45 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:13:45 --> Controller Class Initialized
+INFO - 2024-09-12 14:13:45 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:13:45 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:13:45 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:13:45 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:13:45 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:13:45 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:13:45 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:13:45 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:13:45 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 14:13:45 --> Final output sent to browser
+DEBUG - 2024-09-12 14:13:45 --> Total execution time: 0.0763
+INFO - 2024-09-12 14:13:45 --> Config Class Initialized
+INFO - 2024-09-12 14:13:45 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:13:45 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:13:45 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:13:45 --> URI Class Initialized
+INFO - 2024-09-12 14:13:45 --> Config Class Initialized
+INFO - 2024-09-12 14:13:45 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:13:45 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:13:45 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:13:45 --> URI Class Initialized
+INFO - 2024-09-12 14:13:45 --> Config Class Initialized
+INFO - 2024-09-12 14:13:45 --> Router Class Initialized
+INFO - 2024-09-12 14:13:45 --> Hooks Class Initialized
+INFO - 2024-09-12 14:13:45 --> Router Class Initialized
+INFO - 2024-09-12 14:13:45 --> Output Class Initialized
+INFO - 2024-09-12 14:13:45 --> Output Class Initialized
+DEBUG - 2024-09-12 14:13:45 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:13:45 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:13:45 --> URI Class Initialized
+INFO - 2024-09-12 14:13:45 --> Security Class Initialized
+INFO - 2024-09-12 14:13:45 --> Security Class Initialized
+DEBUG - 2024-09-12 14:13:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:13:45 --> Input Class Initialized
+INFO - 2024-09-12 14:13:45 --> Router Class Initialized
+DEBUG - 2024-09-12 14:13:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:13:45 --> Input Class Initialized
+INFO - 2024-09-12 14:13:45 --> Language Class Initialized
+INFO - 2024-09-12 14:13:45 --> Language Class Initialized
+INFO - 2024-09-12 14:13:45 --> Output Class Initialized
+ERROR - 2024-09-12 14:13:45 --> 404 Page Not Found: Assets/home
+ERROR - 2024-09-12 14:13:45 --> 404 Page Not Found: Assets/img
+INFO - 2024-09-12 14:13:45 --> Security Class Initialized
+DEBUG - 2024-09-12 14:13:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:13:45 --> Input Class Initialized
+INFO - 2024-09-12 14:13:45 --> Language Class Initialized
+ERROR - 2024-09-12 14:13:45 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:17:45 --> Config Class Initialized
+INFO - 2024-09-12 14:17:45 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:17:45 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:17:45 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:17:45 --> URI Class Initialized
+DEBUG - 2024-09-12 14:17:45 --> No URI present. Default controller set.
+INFO - 2024-09-12 14:17:45 --> Router Class Initialized
+INFO - 2024-09-12 14:17:45 --> Output Class Initialized
+INFO - 2024-09-12 14:17:45 --> Security Class Initialized
+DEBUG - 2024-09-12 14:17:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:17:45 --> Input Class Initialized
+INFO - 2024-09-12 14:17:45 --> Language Class Initialized
+INFO - 2024-09-12 14:17:45 --> Loader Class Initialized
+INFO - 2024-09-12 14:17:45 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:17:45 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:17:45 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:17:45 --> Email Class Initialized
+DEBUG - 2024-09-12 14:17:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:17:45 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:17:45 --> Controller Class Initialized
+INFO - 2024-09-12 14:17:45 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:17:45 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:17:45 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:17:45 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:17:45 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:17:45 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:17:45 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:17:45 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:17:45 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 14:17:45 --> Final output sent to browser
+DEBUG - 2024-09-12 14:17:45 --> Total execution time: 0.0747
+INFO - 2024-09-12 14:17:45 --> Config Class Initialized
+INFO - 2024-09-12 14:17:45 --> Hooks Class Initialized
+INFO - 2024-09-12 14:17:45 --> Config Class Initialized
+INFO - 2024-09-12 14:17:45 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:17:45 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:17:45 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:17:45 --> URI Class Initialized
+DEBUG - 2024-09-12 14:17:45 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:17:45 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:17:45 --> Router Class Initialized
+INFO - 2024-09-12 14:17:45 --> URI Class Initialized
+INFO - 2024-09-12 14:17:45 --> Output Class Initialized
+INFO - 2024-09-12 14:17:45 --> Security Class Initialized
+DEBUG - 2024-09-12 14:17:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:17:45 --> Input Class Initialized
+INFO - 2024-09-12 14:17:45 --> Router Class Initialized
+INFO - 2024-09-12 14:17:45 --> Config Class Initialized
+INFO - 2024-09-12 14:17:45 --> Language Class Initialized
+INFO - 2024-09-12 14:17:45 --> Hooks Class Initialized
+ERROR - 2024-09-12 14:17:45 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:17:45 --> Output Class Initialized
+DEBUG - 2024-09-12 14:17:45 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:17:45 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:17:45 --> Security Class Initialized
+INFO - 2024-09-12 14:17:45 --> URI Class Initialized
+DEBUG - 2024-09-12 14:17:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:17:45 --> Router Class Initialized
+INFO - 2024-09-12 14:17:45 --> Input Class Initialized
+INFO - 2024-09-12 14:17:45 --> Language Class Initialized
+INFO - 2024-09-12 14:17:45 --> Output Class Initialized
+INFO - 2024-09-12 14:17:45 --> Security Class Initialized
+ERROR - 2024-09-12 14:17:45 --> 404 Page Not Found: Assets/img
+DEBUG - 2024-09-12 14:17:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:17:45 --> Input Class Initialized
+INFO - 2024-09-12 14:17:45 --> Language Class Initialized
+ERROR - 2024-09-12 14:17:45 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:19:07 --> Config Class Initialized
+INFO - 2024-09-12 14:19:07 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:19:07 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:19:07 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:19:07 --> URI Class Initialized
+DEBUG - 2024-09-12 14:19:07 --> No URI present. Default controller set.
+INFO - 2024-09-12 14:19:07 --> Router Class Initialized
+INFO - 2024-09-12 14:19:07 --> Output Class Initialized
+INFO - 2024-09-12 14:19:07 --> Security Class Initialized
+DEBUG - 2024-09-12 14:19:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:19:07 --> Input Class Initialized
+INFO - 2024-09-12 14:19:07 --> Language Class Initialized
+INFO - 2024-09-12 14:19:07 --> Loader Class Initialized
+INFO - 2024-09-12 14:19:07 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:19:07 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:19:07 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:19:07 --> Email Class Initialized
+DEBUG - 2024-09-12 14:19:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:19:07 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:19:07 --> Controller Class Initialized
+INFO - 2024-09-12 14:19:07 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:19:07 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:19:07 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:19:07 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:19:07 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:19:07 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:19:07 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:19:07 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:19:07 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 14:19:07 --> Final output sent to browser
+DEBUG - 2024-09-12 14:19:07 --> Total execution time: 0.0782
+INFO - 2024-09-12 14:19:07 --> Config Class Initialized
+INFO - 2024-09-12 14:19:07 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:19:07 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:19:07 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:19:07 --> URI Class Initialized
+INFO - 2024-09-12 14:19:07 --> Router Class Initialized
+INFO - 2024-09-12 14:19:07 --> Output Class Initialized
+INFO - 2024-09-12 14:19:07 --> Security Class Initialized
+DEBUG - 2024-09-12 14:19:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:19:07 --> Input Class Initialized
+INFO - 2024-09-12 14:19:07 --> Language Class Initialized
+ERROR - 2024-09-12 14:19:07 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:19:07 --> Config Class Initialized
+INFO - 2024-09-12 14:19:07 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:19:07 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:19:07 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:19:07 --> URI Class Initialized
+INFO - 2024-09-12 14:19:07 --> Router Class Initialized
+INFO - 2024-09-12 14:19:07 --> Output Class Initialized
+INFO - 2024-09-12 14:19:07 --> Security Class Initialized
+DEBUG - 2024-09-12 14:19:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:19:07 --> Input Class Initialized
+INFO - 2024-09-12 14:19:07 --> Language Class Initialized
+ERROR - 2024-09-12 14:19:07 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:19:07 --> Config Class Initialized
+INFO - 2024-09-12 14:19:07 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:19:07 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:19:07 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:19:07 --> URI Class Initialized
+INFO - 2024-09-12 14:19:07 --> Router Class Initialized
+INFO - 2024-09-12 14:19:07 --> Output Class Initialized
+INFO - 2024-09-12 14:19:07 --> Security Class Initialized
+DEBUG - 2024-09-12 14:19:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:19:07 --> Input Class Initialized
+INFO - 2024-09-12 14:19:07 --> Language Class Initialized
+ERROR - 2024-09-12 14:19:07 --> 404 Page Not Found: Assets/img
+INFO - 2024-09-12 14:19:08 --> Config Class Initialized
+INFO - 2024-09-12 14:19:08 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:19:08 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:19:08 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:19:08 --> URI Class Initialized
+INFO - 2024-09-12 14:19:08 --> Router Class Initialized
+INFO - 2024-09-12 14:19:08 --> Output Class Initialized
+INFO - 2024-09-12 14:19:08 --> Security Class Initialized
+DEBUG - 2024-09-12 14:19:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:19:08 --> Input Class Initialized
+INFO - 2024-09-12 14:19:08 --> Language Class Initialized
+ERROR - 2024-09-12 14:19:08 --> 404 Page Not Found: Assets/img
+INFO - 2024-09-12 14:19:18 --> Config Class Initialized
+INFO - 2024-09-12 14:19:18 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:19:18 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:19:18 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:19:18 --> URI Class Initialized
+DEBUG - 2024-09-12 14:19:18 --> No URI present. Default controller set.
+INFO - 2024-09-12 14:19:18 --> Router Class Initialized
+INFO - 2024-09-12 14:19:18 --> Output Class Initialized
+INFO - 2024-09-12 14:19:18 --> Security Class Initialized
+DEBUG - 2024-09-12 14:19:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:19:18 --> Input Class Initialized
+INFO - 2024-09-12 14:19:18 --> Language Class Initialized
+INFO - 2024-09-12 14:19:18 --> Loader Class Initialized
+INFO - 2024-09-12 14:19:18 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:19:18 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:19:18 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:19:18 --> Email Class Initialized
+DEBUG - 2024-09-12 14:19:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:19:18 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:19:18 --> Controller Class Initialized
+INFO - 2024-09-12 14:19:18 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:19:18 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:19:18 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:19:18 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:19:18 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:19:18 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:19:18 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:19:18 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:19:18 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 14:19:18 --> Final output sent to browser
+DEBUG - 2024-09-12 14:19:18 --> Total execution time: 0.0992
+INFO - 2024-09-12 14:19:18 --> Config Class Initialized
+INFO - 2024-09-12 14:19:18 --> Hooks Class Initialized
+INFO - 2024-09-12 14:19:18 --> Config Class Initialized
+INFO - 2024-09-12 14:19:18 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:19:18 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:19:18 --> Utf8 Class Initialized
+DEBUG - 2024-09-12 14:19:18 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:19:18 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:19:18 --> URI Class Initialized
+INFO - 2024-09-12 14:19:18 --> URI Class Initialized
+INFO - 2024-09-12 14:19:18 --> Router Class Initialized
+INFO - 2024-09-12 14:19:18 --> Router Class Initialized
+INFO - 2024-09-12 14:19:18 --> Output Class Initialized
+INFO - 2024-09-12 14:19:18 --> Security Class Initialized
+DEBUG - 2024-09-12 14:19:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:19:18 --> Input Class Initialized
+INFO - 2024-09-12 14:19:18 --> Language Class Initialized
+ERROR - 2024-09-12 14:19:18 --> 404 Page Not Found: Assets/img
+INFO - 2024-09-12 14:19:18 --> Output Class Initialized
+INFO - 2024-09-12 14:19:18 --> Security Class Initialized
+DEBUG - 2024-09-12 14:19:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:19:18 --> Input Class Initialized
+INFO - 2024-09-12 14:19:18 --> Language Class Initialized
+ERROR - 2024-09-12 14:19:18 --> 404 Page Not Found: Assets/img
+INFO - 2024-09-12 14:19:18 --> Config Class Initialized
+INFO - 2024-09-12 14:19:18 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:19:18 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:19:18 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:19:18 --> URI Class Initialized
+INFO - 2024-09-12 14:19:18 --> Router Class Initialized
+INFO - 2024-09-12 14:19:18 --> Output Class Initialized
+INFO - 2024-09-12 14:19:18 --> Security Class Initialized
+DEBUG - 2024-09-12 14:19:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:19:18 --> Input Class Initialized
+INFO - 2024-09-12 14:19:18 --> Language Class Initialized
+INFO - 2024-09-12 14:19:18 --> Config Class Initialized
+INFO - 2024-09-12 14:19:18 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:19:18 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:19:18 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:19:18 --> URI Class Initialized
+INFO - 2024-09-12 14:19:18 --> Router Class Initialized
+INFO - 2024-09-12 14:19:18 --> Output Class Initialized
+INFO - 2024-09-12 14:19:18 --> Security Class Initialized
+DEBUG - 2024-09-12 14:19:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:19:18 --> Input Class Initialized
+INFO - 2024-09-12 14:19:18 --> Language Class Initialized
+ERROR - 2024-09-12 14:19:18 --> 404 Page Not Found: Assets/home
+ERROR - 2024-09-12 14:19:18 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:19:36 --> Config Class Initialized
+INFO - 2024-09-12 14:19:36 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:19:36 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:19:36 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:19:36 --> URI Class Initialized
+DEBUG - 2024-09-12 14:19:36 --> No URI present. Default controller set.
+INFO - 2024-09-12 14:19:36 --> Router Class Initialized
+INFO - 2024-09-12 14:19:36 --> Output Class Initialized
+INFO - 2024-09-12 14:19:36 --> Security Class Initialized
+DEBUG - 2024-09-12 14:19:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:19:36 --> Input Class Initialized
+INFO - 2024-09-12 14:19:36 --> Language Class Initialized
+INFO - 2024-09-12 14:19:36 --> Loader Class Initialized
+INFO - 2024-09-12 14:19:36 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:19:36 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:19:36 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:19:36 --> Email Class Initialized
+DEBUG - 2024-09-12 14:19:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:19:36 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:19:36 --> Controller Class Initialized
+INFO - 2024-09-12 14:19:36 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:19:36 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:19:36 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:19:36 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:19:36 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:19:36 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:19:36 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:19:36 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:19:36 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 14:19:36 --> Final output sent to browser
+DEBUG - 2024-09-12 14:19:36 --> Total execution time: 0.0691
+INFO - 2024-09-12 14:19:36 --> Config Class Initialized
+INFO - 2024-09-12 14:19:36 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:19:36 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:19:36 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:19:36 --> URI Class Initialized
+INFO - 2024-09-12 14:19:36 --> Config Class Initialized
+INFO - 2024-09-12 14:19:36 --> Hooks Class Initialized
+INFO - 2024-09-12 14:19:36 --> Router Class Initialized
+INFO - 2024-09-12 14:19:36 --> Output Class Initialized
+INFO - 2024-09-12 14:19:36 --> Security Class Initialized
+INFO - 2024-09-12 14:19:36 --> Config Class Initialized
+DEBUG - 2024-09-12 14:19:36 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:19:36 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:19:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:19:36 --> Input Class Initialized
+INFO - 2024-09-12 14:19:36 --> Language Class Initialized
+ERROR - 2024-09-12 14:19:36 --> 404 Page Not Found: Assets/home
+DEBUG - 2024-09-12 14:19:36 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:19:36 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:19:36 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:19:36 --> URI Class Initialized
+INFO - 2024-09-12 14:19:36 --> URI Class Initialized
+INFO - 2024-09-12 14:19:36 --> Router Class Initialized
+INFO - 2024-09-12 14:19:36 --> Router Class Initialized
+INFO - 2024-09-12 14:19:36 --> Output Class Initialized
+INFO - 2024-09-12 14:19:36 --> Security Class Initialized
+DEBUG - 2024-09-12 14:19:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:19:36 --> Input Class Initialized
+INFO - 2024-09-12 14:19:36 --> Output Class Initialized
+INFO - 2024-09-12 14:19:36 --> Language Class Initialized
+INFO - 2024-09-12 14:19:36 --> Security Class Initialized
+ERROR - 2024-09-12 14:19:36 --> 404 Page Not Found: Assets/img
+DEBUG - 2024-09-12 14:19:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:19:36 --> Input Class Initialized
+INFO - 2024-09-12 14:19:36 --> Language Class Initialized
+ERROR - 2024-09-12 14:19:36 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:19:38 --> Config Class Initialized
+INFO - 2024-09-12 14:19:38 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:19:38 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:19:38 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:19:38 --> URI Class Initialized
+DEBUG - 2024-09-12 14:19:38 --> No URI present. Default controller set.
+INFO - 2024-09-12 14:19:38 --> Router Class Initialized
+INFO - 2024-09-12 14:19:38 --> Output Class Initialized
+INFO - 2024-09-12 14:19:38 --> Security Class Initialized
+DEBUG - 2024-09-12 14:19:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:19:38 --> Input Class Initialized
+INFO - 2024-09-12 14:19:38 --> Language Class Initialized
+INFO - 2024-09-12 14:19:38 --> Loader Class Initialized
+INFO - 2024-09-12 14:19:38 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:19:38 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:19:38 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:19:38 --> Email Class Initialized
+DEBUG - 2024-09-12 14:19:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:19:38 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:19:38 --> Controller Class Initialized
+INFO - 2024-09-12 14:19:38 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:19:38 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:19:38 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:19:38 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:19:38 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:19:38 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:19:38 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:19:38 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:19:38 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 14:19:38 --> Final output sent to browser
+DEBUG - 2024-09-12 14:19:38 --> Total execution time: 0.0745
+INFO - 2024-09-12 14:19:38 --> Config Class Initialized
+INFO - 2024-09-12 14:19:38 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:19:38 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:19:38 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:19:38 --> URI Class Initialized
+INFO - 2024-09-12 14:19:38 --> Router Class Initialized
+INFO - 2024-09-12 14:19:38 --> Output Class Initialized
+INFO - 2024-09-12 14:19:38 --> Security Class Initialized
+DEBUG - 2024-09-12 14:19:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:19:38 --> Input Class Initialized
+INFO - 2024-09-12 14:19:38 --> Config Class Initialized
+INFO - 2024-09-12 14:19:38 --> Hooks Class Initialized
+INFO - 2024-09-12 14:19:38 --> Language Class Initialized
+ERROR - 2024-09-12 14:19:38 --> 404 Page Not Found: Assets/home
+DEBUG - 2024-09-12 14:19:38 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:19:38 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:19:38 --> URI Class Initialized
+INFO - 2024-09-12 14:19:38 --> Router Class Initialized
+INFO - 2024-09-12 14:19:38 --> Output Class Initialized
+INFO - 2024-09-12 14:19:39 --> Security Class Initialized
+DEBUG - 2024-09-12 14:19:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:19:39 --> Input Class Initialized
+INFO - 2024-09-12 14:19:39 --> Language Class Initialized
+ERROR - 2024-09-12 14:19:39 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:19:39 --> Config Class Initialized
+INFO - 2024-09-12 14:19:39 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:19:39 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:19:39 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:19:39 --> URI Class Initialized
+INFO - 2024-09-12 14:19:39 --> Router Class Initialized
+INFO - 2024-09-12 14:19:39 --> Output Class Initialized
+INFO - 2024-09-12 14:19:39 --> Security Class Initialized
+DEBUG - 2024-09-12 14:19:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:19:39 --> Input Class Initialized
+INFO - 2024-09-12 14:19:39 --> Language Class Initialized
+ERROR - 2024-09-12 14:19:39 --> 404 Page Not Found: Assets/img
+INFO - 2024-09-12 14:19:39 --> Config Class Initialized
+INFO - 2024-09-12 14:19:39 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:19:39 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:19:39 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:19:39 --> URI Class Initialized
+INFO - 2024-09-12 14:19:39 --> Router Class Initialized
+INFO - 2024-09-12 14:19:39 --> Output Class Initialized
+INFO - 2024-09-12 14:19:39 --> Security Class Initialized
+DEBUG - 2024-09-12 14:19:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:19:39 --> Input Class Initialized
+INFO - 2024-09-12 14:19:39 --> Language Class Initialized
+ERROR - 2024-09-12 14:19:39 --> 404 Page Not Found: Assets/img
+INFO - 2024-09-12 14:20:16 --> Config Class Initialized
+INFO - 2024-09-12 14:20:16 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:20:16 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:20:16 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:20:16 --> URI Class Initialized
+DEBUG - 2024-09-12 14:20:16 --> No URI present. Default controller set.
+INFO - 2024-09-12 14:20:16 --> Router Class Initialized
+INFO - 2024-09-12 14:20:16 --> Output Class Initialized
+INFO - 2024-09-12 14:20:16 --> Security Class Initialized
+DEBUG - 2024-09-12 14:20:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:20:16 --> Input Class Initialized
+INFO - 2024-09-12 14:20:16 --> Language Class Initialized
+INFO - 2024-09-12 14:20:16 --> Loader Class Initialized
+INFO - 2024-09-12 14:20:16 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:20:16 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:20:16 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:20:16 --> Email Class Initialized
+DEBUG - 2024-09-12 14:20:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:20:16 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:20:16 --> Controller Class Initialized
+INFO - 2024-09-12 14:20:16 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:20:16 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:20:16 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:20:16 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:20:16 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:20:16 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:20:16 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:20:16 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:20:16 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 14:20:16 --> Final output sent to browser
+DEBUG - 2024-09-12 14:20:16 --> Total execution time: 0.0715
+INFO - 2024-09-12 14:20:17 --> Config Class Initialized
+INFO - 2024-09-12 14:20:17 --> Config Class Initialized
+INFO - 2024-09-12 14:20:17 --> Hooks Class Initialized
+INFO - 2024-09-12 14:20:17 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:20:17 --> UTF-8 Support Enabled
+DEBUG - 2024-09-12 14:20:17 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:20:17 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:20:17 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:20:17 --> URI Class Initialized
+INFO - 2024-09-12 14:20:17 --> URI Class Initialized
+INFO - 2024-09-12 14:20:17 --> Router Class Initialized
+INFO - 2024-09-12 14:20:17 --> Router Class Initialized
+INFO - 2024-09-12 14:20:17 --> Output Class Initialized
+INFO - 2024-09-12 14:20:17 --> Output Class Initialized
+INFO - 2024-09-12 14:20:17 --> Security Class Initialized
+INFO - 2024-09-12 14:20:17 --> Security Class Initialized
+DEBUG - 2024-09-12 14:20:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:20:17 --> Input Class Initialized
+INFO - 2024-09-12 14:20:17 --> Language Class Initialized
+ERROR - 2024-09-12 14:20:17 --> 404 Page Not Found: Assets/home
+DEBUG - 2024-09-12 14:20:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:20:17 --> Input Class Initialized
+INFO - 2024-09-12 14:20:17 --> Language Class Initialized
+ERROR - 2024-09-12 14:20:17 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:20:17 --> Config Class Initialized
+INFO - 2024-09-12 14:20:17 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:20:17 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:20:17 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:20:17 --> URI Class Initialized
+INFO - 2024-09-12 14:20:17 --> Router Class Initialized
+INFO - 2024-09-12 14:20:17 --> Output Class Initialized
+INFO - 2024-09-12 14:20:17 --> Security Class Initialized
+DEBUG - 2024-09-12 14:20:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:20:17 --> Input Class Initialized
+INFO - 2024-09-12 14:20:17 --> Language Class Initialized
+ERROR - 2024-09-12 14:20:17 --> 404 Page Not Found: Assets/img
+INFO - 2024-09-12 14:20:44 --> Config Class Initialized
+INFO - 2024-09-12 14:20:44 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:20:44 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:20:44 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:20:44 --> URI Class Initialized
+DEBUG - 2024-09-12 14:20:44 --> No URI present. Default controller set.
+INFO - 2024-09-12 14:20:44 --> Router Class Initialized
+INFO - 2024-09-12 14:20:44 --> Output Class Initialized
+INFO - 2024-09-12 14:20:44 --> Security Class Initialized
+DEBUG - 2024-09-12 14:20:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:20:44 --> Input Class Initialized
+INFO - 2024-09-12 14:20:44 --> Language Class Initialized
+INFO - 2024-09-12 14:20:44 --> Loader Class Initialized
+INFO - 2024-09-12 14:20:44 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:20:44 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:20:44 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:20:44 --> Email Class Initialized
+DEBUG - 2024-09-12 14:20:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:20:44 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:20:44 --> Controller Class Initialized
+INFO - 2024-09-12 14:20:44 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:20:44 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:20:44 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:20:44 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:20:44 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:20:44 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:20:44 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:20:44 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:20:44 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 14:20:44 --> Final output sent to browser
+DEBUG - 2024-09-12 14:20:44 --> Total execution time: 0.0649
+INFO - 2024-09-12 14:20:44 --> Config Class Initialized
+INFO - 2024-09-12 14:20:44 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:20:44 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:20:44 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:20:44 --> URI Class Initialized
+INFO - 2024-09-12 14:20:44 --> Router Class Initialized
+INFO - 2024-09-12 14:20:44 --> Output Class Initialized
+INFO - 2024-09-12 14:20:44 --> Security Class Initialized
+DEBUG - 2024-09-12 14:20:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:20:44 --> Input Class Initialized
+INFO - 2024-09-12 14:20:44 --> Language Class Initialized
+ERROR - 2024-09-12 14:20:44 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:20:44 --> Config Class Initialized
+INFO - 2024-09-12 14:20:44 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:20:44 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:20:44 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:20:44 --> URI Class Initialized
+INFO - 2024-09-12 14:20:44 --> Router Class Initialized
+INFO - 2024-09-12 14:20:44 --> Output Class Initialized
+INFO - 2024-09-12 14:20:44 --> Security Class Initialized
+DEBUG - 2024-09-12 14:20:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:20:44 --> Input Class Initialized
+INFO - 2024-09-12 14:20:44 --> Language Class Initialized
+ERROR - 2024-09-12 14:20:44 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:20:44 --> Config Class Initialized
+INFO - 2024-09-12 14:20:44 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:20:44 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:20:44 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:20:44 --> URI Class Initialized
+INFO - 2024-09-12 14:20:44 --> Router Class Initialized
+INFO - 2024-09-12 14:20:44 --> Output Class Initialized
+INFO - 2024-09-12 14:20:44 --> Security Class Initialized
+DEBUG - 2024-09-12 14:20:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:20:44 --> Input Class Initialized
+INFO - 2024-09-12 14:20:44 --> Language Class Initialized
+ERROR - 2024-09-12 14:20:44 --> 404 Page Not Found: Assets/img
+INFO - 2024-09-12 14:21:07 --> Config Class Initialized
+INFO - 2024-09-12 14:21:07 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:21:07 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:21:07 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:21:07 --> URI Class Initialized
+DEBUG - 2024-09-12 14:21:07 --> No URI present. Default controller set.
+INFO - 2024-09-12 14:21:07 --> Router Class Initialized
+INFO - 2024-09-12 14:21:07 --> Output Class Initialized
+INFO - 2024-09-12 14:21:07 --> Security Class Initialized
+DEBUG - 2024-09-12 14:21:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:21:07 --> Input Class Initialized
+INFO - 2024-09-12 14:21:07 --> Language Class Initialized
+INFO - 2024-09-12 14:21:07 --> Loader Class Initialized
+INFO - 2024-09-12 14:21:07 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:21:07 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:21:07 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:21:07 --> Email Class Initialized
+DEBUG - 2024-09-12 14:21:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:21:07 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:21:07 --> Controller Class Initialized
+INFO - 2024-09-12 14:21:07 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:21:07 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:21:07 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:21:07 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:21:07 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:21:07 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:21:07 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:21:07 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:21:07 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 14:21:07 --> Final output sent to browser
+DEBUG - 2024-09-12 14:21:07 --> Total execution time: 0.0660
+INFO - 2024-09-12 14:21:08 --> Config Class Initialized
+INFO - 2024-09-12 14:21:08 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:21:08 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:21:08 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:21:08 --> URI Class Initialized
+INFO - 2024-09-12 14:21:08 --> Config Class Initialized
+INFO - 2024-09-12 14:21:08 --> Router Class Initialized
+INFO - 2024-09-12 14:21:08 --> Hooks Class Initialized
+INFO - 2024-09-12 14:21:08 --> Output Class Initialized
+DEBUG - 2024-09-12 14:21:08 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:21:08 --> Security Class Initialized
+INFO - 2024-09-12 14:21:08 --> Utf8 Class Initialized
+DEBUG - 2024-09-12 14:21:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:21:08 --> URI Class Initialized
+INFO - 2024-09-12 14:21:08 --> Input Class Initialized
+INFO - 2024-09-12 14:21:08 --> Router Class Initialized
+INFO - 2024-09-12 14:21:08 --> Language Class Initialized
+INFO - 2024-09-12 14:21:08 --> Output Class Initialized
+ERROR - 2024-09-12 14:21:08 --> 404 Page Not Found: Assets/img
+INFO - 2024-09-12 14:21:08 --> Security Class Initialized
+DEBUG - 2024-09-12 14:21:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:21:08 --> Input Class Initialized
+INFO - 2024-09-12 14:21:08 --> Language Class Initialized
+ERROR - 2024-09-12 14:21:08 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:21:08 --> Config Class Initialized
+INFO - 2024-09-12 14:21:08 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:21:08 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:21:08 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:21:08 --> URI Class Initialized
+INFO - 2024-09-12 14:21:08 --> Router Class Initialized
+INFO - 2024-09-12 14:21:08 --> Output Class Initialized
+INFO - 2024-09-12 14:21:08 --> Security Class Initialized
+DEBUG - 2024-09-12 14:21:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:21:08 --> Input Class Initialized
+INFO - 2024-09-12 14:21:08 --> Language Class Initialized
+ERROR - 2024-09-12 14:21:08 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:21:16 --> Config Class Initialized
+INFO - 2024-09-12 14:21:16 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:21:16 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:21:16 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:21:16 --> URI Class Initialized
+DEBUG - 2024-09-12 14:21:16 --> No URI present. Default controller set.
+INFO - 2024-09-12 14:21:16 --> Router Class Initialized
+INFO - 2024-09-12 14:21:16 --> Output Class Initialized
+INFO - 2024-09-12 14:21:16 --> Security Class Initialized
+DEBUG - 2024-09-12 14:21:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:21:16 --> Input Class Initialized
+INFO - 2024-09-12 14:21:16 --> Language Class Initialized
+INFO - 2024-09-12 14:21:16 --> Loader Class Initialized
+INFO - 2024-09-12 14:21:16 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:21:16 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:21:16 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:21:16 --> Email Class Initialized
+DEBUG - 2024-09-12 14:21:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:21:16 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:21:16 --> Controller Class Initialized
+INFO - 2024-09-12 14:21:16 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:21:16 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:21:16 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:21:16 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:21:16 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:21:16 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:21:16 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:21:16 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:21:16 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 14:21:16 --> Final output sent to browser
+DEBUG - 2024-09-12 14:21:16 --> Total execution time: 0.0704
+INFO - 2024-09-12 14:21:16 --> Config Class Initialized
+INFO - 2024-09-12 14:21:16 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:21:16 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:21:16 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:21:16 --> URI Class Initialized
+INFO - 2024-09-12 14:21:16 --> Router Class Initialized
+INFO - 2024-09-12 14:21:16 --> Output Class Initialized
+INFO - 2024-09-12 14:21:16 --> Config Class Initialized
+INFO - 2024-09-12 14:21:16 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:21:16 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:21:16 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:21:16 --> URI Class Initialized
+INFO - 2024-09-12 14:21:16 --> Router Class Initialized
+INFO - 2024-09-12 14:21:16 --> Output Class Initialized
+INFO - 2024-09-12 14:21:16 --> Security Class Initialized
+DEBUG - 2024-09-12 14:21:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:21:16 --> Input Class Initialized
+INFO - 2024-09-12 14:21:16 --> Language Class Initialized
+ERROR - 2024-09-12 14:21:16 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:21:16 --> Security Class Initialized
+DEBUG - 2024-09-12 14:21:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:21:16 --> Input Class Initialized
+INFO - 2024-09-12 14:21:16 --> Language Class Initialized
+ERROR - 2024-09-12 14:21:16 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:21:16 --> Config Class Initialized
+INFO - 2024-09-12 14:21:16 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:21:16 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:21:16 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:21:16 --> URI Class Initialized
+INFO - 2024-09-12 14:21:16 --> Router Class Initialized
+INFO - 2024-09-12 14:21:16 --> Output Class Initialized
+INFO - 2024-09-12 14:21:16 --> Security Class Initialized
+DEBUG - 2024-09-12 14:21:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:21:16 --> Input Class Initialized
+INFO - 2024-09-12 14:21:16 --> Language Class Initialized
+ERROR - 2024-09-12 14:21:16 --> 404 Page Not Found: Assets/img
+INFO - 2024-09-12 14:21:55 --> Config Class Initialized
+INFO - 2024-09-12 14:21:55 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:21:55 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:21:55 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:21:55 --> URI Class Initialized
+DEBUG - 2024-09-12 14:21:55 --> No URI present. Default controller set.
+INFO - 2024-09-12 14:21:55 --> Router Class Initialized
+INFO - 2024-09-12 14:21:55 --> Output Class Initialized
+INFO - 2024-09-12 14:21:55 --> Security Class Initialized
+DEBUG - 2024-09-12 14:21:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:21:55 --> Input Class Initialized
+INFO - 2024-09-12 14:21:55 --> Language Class Initialized
+INFO - 2024-09-12 14:21:55 --> Loader Class Initialized
+INFO - 2024-09-12 14:21:55 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:21:55 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:21:55 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:21:55 --> Email Class Initialized
+DEBUG - 2024-09-12 14:21:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:21:55 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:21:55 --> Controller Class Initialized
+INFO - 2024-09-12 14:21:55 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:21:55 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:21:55 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:21:55 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:21:55 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:21:55 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:21:55 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:21:55 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:21:55 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 14:21:55 --> Final output sent to browser
+DEBUG - 2024-09-12 14:21:55 --> Total execution time: 0.0832
+INFO - 2024-09-12 14:21:55 --> Config Class Initialized
+INFO - 2024-09-12 14:21:55 --> Config Class Initialized
+INFO - 2024-09-12 14:21:55 --> Hooks Class Initialized
+INFO - 2024-09-12 14:21:55 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:21:55 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:21:55 --> Utf8 Class Initialized
+DEBUG - 2024-09-12 14:21:55 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:21:55 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:21:55 --> URI Class Initialized
+INFO - 2024-09-12 14:21:55 --> URI Class Initialized
+INFO - 2024-09-12 14:21:55 --> Router Class Initialized
+INFO - 2024-09-12 14:21:55 --> Router Class Initialized
+INFO - 2024-09-12 14:21:55 --> Output Class Initialized
+INFO - 2024-09-12 14:21:55 --> Security Class Initialized
+DEBUG - 2024-09-12 14:21:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:21:55 --> Input Class Initialized
+INFO - 2024-09-12 14:21:55 --> Language Class Initialized
+ERROR - 2024-09-12 14:21:55 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:21:55 --> Output Class Initialized
+INFO - 2024-09-12 14:21:55 --> Security Class Initialized
+DEBUG - 2024-09-12 14:21:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:21:55 --> Input Class Initialized
+INFO - 2024-09-12 14:21:55 --> Language Class Initialized
+ERROR - 2024-09-12 14:21:55 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:22:05 --> Config Class Initialized
+INFO - 2024-09-12 14:22:05 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:22:05 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:22:05 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:22:05 --> URI Class Initialized
+DEBUG - 2024-09-12 14:22:05 --> No URI present. Default controller set.
+INFO - 2024-09-12 14:22:05 --> Router Class Initialized
+INFO - 2024-09-12 14:22:05 --> Output Class Initialized
+INFO - 2024-09-12 14:22:05 --> Security Class Initialized
+DEBUG - 2024-09-12 14:22:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:22:05 --> Input Class Initialized
+INFO - 2024-09-12 14:22:05 --> Language Class Initialized
+INFO - 2024-09-12 14:22:05 --> Loader Class Initialized
+INFO - 2024-09-12 14:22:05 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:22:05 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:22:05 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:22:05 --> Email Class Initialized
+DEBUG - 2024-09-12 14:22:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:22:05 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:22:05 --> Controller Class Initialized
+INFO - 2024-09-12 14:22:05 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:22:05 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:22:05 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:22:05 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:22:05 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:22:05 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:22:05 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:22:05 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:22:05 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 14:22:05 --> Final output sent to browser
+DEBUG - 2024-09-12 14:22:05 --> Total execution time: 0.0995
+INFO - 2024-09-12 14:22:05 --> Config Class Initialized
+INFO - 2024-09-12 14:22:05 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:22:05 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:22:05 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:22:05 --> URI Class Initialized
+INFO - 2024-09-12 14:22:05 --> Router Class Initialized
+INFO - 2024-09-12 14:22:05 --> Output Class Initialized
+INFO - 2024-09-12 14:22:05 --> Security Class Initialized
+INFO - 2024-09-12 14:22:05 --> Config Class Initialized
+INFO - 2024-09-12 14:22:05 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:22:05 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:22:05 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:22:05 --> URI Class Initialized
+INFO - 2024-09-12 14:22:05 --> Router Class Initialized
+INFO - 2024-09-12 14:22:05 --> Output Class Initialized
+INFO - 2024-09-12 14:22:05 --> Security Class Initialized
+DEBUG - 2024-09-12 14:22:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:22:05 --> Input Class Initialized
+INFO - 2024-09-12 14:22:05 --> Language Class Initialized
+ERROR - 2024-09-12 14:22:05 --> 404 Page Not Found: Assets/home
+DEBUG - 2024-09-12 14:22:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:22:05 --> Input Class Initialized
+INFO - 2024-09-12 14:22:05 --> Language Class Initialized
+ERROR - 2024-09-12 14:22:05 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:30:14 --> Config Class Initialized
+INFO - 2024-09-12 14:30:14 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:30:14 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:30:14 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:30:14 --> URI Class Initialized
+INFO - 2024-09-12 14:30:14 --> Router Class Initialized
+INFO - 2024-09-12 14:30:14 --> Output Class Initialized
+INFO - 2024-09-12 14:30:14 --> Security Class Initialized
+DEBUG - 2024-09-12 14:30:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:30:14 --> Input Class Initialized
+INFO - 2024-09-12 14:30:14 --> Language Class Initialized
+INFO - 2024-09-12 14:30:14 --> Loader Class Initialized
+INFO - 2024-09-12 14:30:14 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:30:14 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:30:14 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:30:14 --> Email Class Initialized
+DEBUG - 2024-09-12 14:30:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:30:14 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:30:14 --> Controller Class Initialized
+INFO - 2024-09-12 14:30:14 --> Model "ProductModel" initialized
+INFO - 2024-09-12 14:30:14 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:30:14 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:30:14 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\admin/product_list.php
+INFO - 2024-09-12 14:30:14 --> Final output sent to browser
+DEBUG - 2024-09-12 14:30:14 --> Total execution time: 0.0607
+INFO - 2024-09-12 14:30:14 --> Config Class Initialized
+INFO - 2024-09-12 14:30:14 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:30:14 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:30:14 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:30:14 --> URI Class Initialized
+INFO - 2024-09-12 14:30:14 --> Router Class Initialized
+INFO - 2024-09-12 14:30:14 --> Output Class Initialized
+INFO - 2024-09-12 14:30:14 --> Security Class Initialized
+DEBUG - 2024-09-12 14:30:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:30:14 --> Input Class Initialized
+INFO - 2024-09-12 14:30:14 --> Language Class Initialized
+ERROR - 2024-09-12 14:30:14 --> 404 Page Not Found: admin/Images/favicon.png
+INFO - 2024-09-12 14:30:28 --> Config Class Initialized
+INFO - 2024-09-12 14:30:28 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:30:28 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:30:28 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:30:28 --> URI Class Initialized
+INFO - 2024-09-12 14:30:28 --> Router Class Initialized
+INFO - 2024-09-12 14:30:28 --> Output Class Initialized
+INFO - 2024-09-12 14:30:28 --> Security Class Initialized
+DEBUG - 2024-09-12 14:30:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:30:28 --> Input Class Initialized
+INFO - 2024-09-12 14:30:28 --> Language Class Initialized
+INFO - 2024-09-12 14:30:28 --> Loader Class Initialized
+INFO - 2024-09-12 14:30:28 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:30:28 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:30:28 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:30:28 --> Email Class Initialized
+DEBUG - 2024-09-12 14:30:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:30:28 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:30:28 --> Controller Class Initialized
+INFO - 2024-09-12 14:30:28 --> Model "ProductModel" initialized
+INFO - 2024-09-12 14:30:28 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:30:28 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:30:28 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\admin/product_edit.php
+INFO - 2024-09-12 14:30:28 --> Final output sent to browser
+DEBUG - 2024-09-12 14:30:28 --> Total execution time: 0.0780
+INFO - 2024-09-12 14:30:28 --> Config Class Initialized
+INFO - 2024-09-12 14:30:28 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:30:28 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:30:28 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:30:28 --> URI Class Initialized
+INFO - 2024-09-12 14:30:28 --> Router Class Initialized
+INFO - 2024-09-12 14:30:28 --> Output Class Initialized
+INFO - 2024-09-12 14:30:28 --> Security Class Initialized
+DEBUG - 2024-09-12 14:30:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:30:28 --> Input Class Initialized
+INFO - 2024-09-12 14:30:28 --> Language Class Initialized
+INFO - 2024-09-12 14:30:28 --> Loader Class Initialized
+INFO - 2024-09-12 14:30:28 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:30:28 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:30:28 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:30:28 --> Email Class Initialized
+DEBUG - 2024-09-12 14:30:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:30:28 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:30:28 --> Controller Class Initialized
+INFO - 2024-09-12 14:30:28 --> Model "ProductModel" initialized
+INFO - 2024-09-12 14:30:29 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:30:29 --> Form Validation Class Initialized
+ERROR - 2024-09-12 14:30:29 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 40
+ERROR - 2024-09-12 14:30:29 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 49
+ERROR - 2024-09-12 14:30:29 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 58
+ERROR - 2024-09-12 14:30:29 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 59
+ERROR - 2024-09-12 14:30:29 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 60
+ERROR - 2024-09-12 14:30:29 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 70
+ERROR - 2024-09-12 14:30:29 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 71
+ERROR - 2024-09-12 14:30:29 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 72
+ERROR - 2024-09-12 14:30:29 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 85
+ERROR - 2024-09-12 14:30:29 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 96
+ERROR - 2024-09-12 14:30:29 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 108
+ERROR - 2024-09-12 14:30:29 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 119
+ERROR - 2024-09-12 14:30:29 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 130
+ERROR - 2024-09-12 14:30:29 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 141
+ERROR - 2024-09-12 14:30:29 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 162
+INFO - 2024-09-12 14:30:29 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\admin/product_edit.php
+INFO - 2024-09-12 14:30:29 --> Final output sent to browser
+DEBUG - 2024-09-12 14:30:29 --> Total execution time: 0.1235
+INFO - 2024-09-12 14:30:39 --> Config Class Initialized
+INFO - 2024-09-12 14:30:39 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:30:39 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:30:39 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:30:39 --> URI Class Initialized
+INFO - 2024-09-12 14:30:39 --> Router Class Initialized
+INFO - 2024-09-12 14:30:39 --> Output Class Initialized
+INFO - 2024-09-12 14:30:39 --> Security Class Initialized
+DEBUG - 2024-09-12 14:30:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:30:39 --> Input Class Initialized
+INFO - 2024-09-12 14:30:39 --> Language Class Initialized
+INFO - 2024-09-12 14:30:39 --> Loader Class Initialized
+INFO - 2024-09-12 14:30:39 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:30:39 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:30:39 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:30:39 --> Email Class Initialized
+DEBUG - 2024-09-12 14:30:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:30:39 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:30:39 --> Controller Class Initialized
+INFO - 2024-09-12 14:30:39 --> Model "ProductModel" initialized
+INFO - 2024-09-12 14:30:39 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:30:39 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:30:39 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\admin/product_list.php
+INFO - 2024-09-12 14:30:39 --> Final output sent to browser
+DEBUG - 2024-09-12 14:30:39 --> Total execution time: 0.0729
+INFO - 2024-09-12 14:30:43 --> Config Class Initialized
+INFO - 2024-09-12 14:30:43 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:30:43 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:30:43 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:30:43 --> URI Class Initialized
+INFO - 2024-09-12 14:30:43 --> Router Class Initialized
+INFO - 2024-09-12 14:30:43 --> Output Class Initialized
+INFO - 2024-09-12 14:30:43 --> Security Class Initialized
+DEBUG - 2024-09-12 14:30:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:30:43 --> Input Class Initialized
+INFO - 2024-09-12 14:30:43 --> Language Class Initialized
+INFO - 2024-09-12 14:30:43 --> Loader Class Initialized
+INFO - 2024-09-12 14:30:43 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:30:43 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:30:43 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:30:43 --> Email Class Initialized
+DEBUG - 2024-09-12 14:30:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:30:43 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:30:43 --> Controller Class Initialized
+INFO - 2024-09-12 14:30:43 --> Model "ProductModel" initialized
+INFO - 2024-09-12 14:30:43 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:30:43 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:30:43 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\admin/product_edit.php
+INFO - 2024-09-12 14:30:43 --> Final output sent to browser
+DEBUG - 2024-09-12 14:30:43 --> Total execution time: 0.0610
+INFO - 2024-09-12 14:30:44 --> Config Class Initialized
+INFO - 2024-09-12 14:30:44 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:30:44 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:30:44 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:30:44 --> URI Class Initialized
+INFO - 2024-09-12 14:30:44 --> Router Class Initialized
+INFO - 2024-09-12 14:30:44 --> Output Class Initialized
+INFO - 2024-09-12 14:30:44 --> Security Class Initialized
+DEBUG - 2024-09-12 14:30:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:30:44 --> Input Class Initialized
+INFO - 2024-09-12 14:30:44 --> Language Class Initialized
+INFO - 2024-09-12 14:30:44 --> Loader Class Initialized
+INFO - 2024-09-12 14:30:44 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:30:44 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:30:44 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:30:44 --> Email Class Initialized
+DEBUG - 2024-09-12 14:30:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:30:44 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:30:44 --> Controller Class Initialized
+INFO - 2024-09-12 14:30:44 --> Model "ProductModel" initialized
+INFO - 2024-09-12 14:30:44 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:30:44 --> Form Validation Class Initialized
+ERROR - 2024-09-12 14:30:44 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 40
+ERROR - 2024-09-12 14:30:44 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 49
+ERROR - 2024-09-12 14:30:44 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 58
+ERROR - 2024-09-12 14:30:44 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 59
+ERROR - 2024-09-12 14:30:44 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 60
+ERROR - 2024-09-12 14:30:44 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 70
+ERROR - 2024-09-12 14:30:44 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 71
+ERROR - 2024-09-12 14:30:44 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 72
+ERROR - 2024-09-12 14:30:44 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 85
+ERROR - 2024-09-12 14:30:44 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 96
+ERROR - 2024-09-12 14:30:44 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 108
+ERROR - 2024-09-12 14:30:44 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 119
+ERROR - 2024-09-12 14:30:44 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 130
+ERROR - 2024-09-12 14:30:44 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 141
+ERROR - 2024-09-12 14:30:44 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\flow_smart\application\views\admin\product_edit.php 162
+INFO - 2024-09-12 14:30:44 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\admin/product_edit.php
+INFO - 2024-09-12 14:30:44 --> Final output sent to browser
+DEBUG - 2024-09-12 14:30:44 --> Total execution time: 0.0755
+INFO - 2024-09-12 14:31:34 --> Config Class Initialized
+INFO - 2024-09-12 14:31:34 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:31:34 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:31:34 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:31:34 --> URI Class Initialized
+INFO - 2024-09-12 14:31:34 --> Router Class Initialized
+INFO - 2024-09-12 14:31:34 --> Output Class Initialized
+INFO - 2024-09-12 14:31:34 --> Security Class Initialized
+DEBUG - 2024-09-12 14:31:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:31:34 --> Input Class Initialized
+INFO - 2024-09-12 14:31:34 --> Language Class Initialized
+INFO - 2024-09-12 14:31:34 --> Loader Class Initialized
+INFO - 2024-09-12 14:31:34 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:31:34 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:31:34 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:31:34 --> Email Class Initialized
+DEBUG - 2024-09-12 14:31:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:31:34 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:31:34 --> Controller Class Initialized
+INFO - 2024-09-12 14:31:34 --> Model "ProductModel" initialized
+INFO - 2024-09-12 14:31:34 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:31:34 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:31:34 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2024-09-12 14:31:34 --> Config Class Initialized
+INFO - 2024-09-12 14:31:34 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:31:34 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:31:34 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:31:34 --> URI Class Initialized
+INFO - 2024-09-12 14:31:34 --> Router Class Initialized
+INFO - 2024-09-12 14:31:34 --> Output Class Initialized
+INFO - 2024-09-12 14:31:34 --> Security Class Initialized
+DEBUG - 2024-09-12 14:31:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:31:34 --> Input Class Initialized
+INFO - 2024-09-12 14:31:34 --> Language Class Initialized
+INFO - 2024-09-12 14:31:34 --> Loader Class Initialized
+INFO - 2024-09-12 14:31:34 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:31:34 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:31:34 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:31:34 --> Email Class Initialized
+DEBUG - 2024-09-12 14:31:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:31:34 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:31:34 --> Controller Class Initialized
+INFO - 2024-09-12 14:31:34 --> Model "ProductModel" initialized
+INFO - 2024-09-12 14:31:34 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:31:34 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:31:34 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\admin/product_list.php
+INFO - 2024-09-12 14:31:34 --> Final output sent to browser
+DEBUG - 2024-09-12 14:31:34 --> Total execution time: 0.0707
+INFO - 2024-09-12 14:31:44 --> Config Class Initialized
+INFO - 2024-09-12 14:31:44 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:31:44 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:31:44 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:31:44 --> URI Class Initialized
+DEBUG - 2024-09-12 14:31:44 --> No URI present. Default controller set.
+INFO - 2024-09-12 14:31:44 --> Router Class Initialized
+INFO - 2024-09-12 14:31:44 --> Output Class Initialized
+INFO - 2024-09-12 14:31:44 --> Security Class Initialized
+DEBUG - 2024-09-12 14:31:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:31:44 --> Input Class Initialized
+INFO - 2024-09-12 14:31:44 --> Language Class Initialized
+INFO - 2024-09-12 14:31:44 --> Loader Class Initialized
+INFO - 2024-09-12 14:31:44 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:31:44 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:31:44 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:31:44 --> Email Class Initialized
+DEBUG - 2024-09-12 14:31:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:31:44 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:31:44 --> Controller Class Initialized
+INFO - 2024-09-12 14:31:44 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:31:44 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:31:44 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:31:44 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:31:44 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:31:44 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:31:44 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:31:44 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:31:44 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/index.php
+INFO - 2024-09-12 14:31:44 --> Final output sent to browser
+DEBUG - 2024-09-12 14:31:44 --> Total execution time: 0.0518
+INFO - 2024-09-12 14:31:44 --> Config Class Initialized
+INFO - 2024-09-12 14:31:44 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:31:44 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:31:44 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:31:44 --> URI Class Initialized
+INFO - 2024-09-12 14:31:44 --> Router Class Initialized
+INFO - 2024-09-12 14:31:44 --> Output Class Initialized
+INFO - 2024-09-12 14:31:44 --> Security Class Initialized
+DEBUG - 2024-09-12 14:31:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:31:44 --> Input Class Initialized
+INFO - 2024-09-12 14:31:44 --> Language Class Initialized
+INFO - 2024-09-12 14:31:44 --> Config Class Initialized
+INFO - 2024-09-12 14:31:44 --> Hooks Class Initialized
+ERROR - 2024-09-12 14:31:44 --> 404 Page Not Found: Assets/home
+DEBUG - 2024-09-12 14:31:44 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:31:44 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:31:44 --> URI Class Initialized
+INFO - 2024-09-12 14:31:44 --> Router Class Initialized
+INFO - 2024-09-12 14:31:44 --> Output Class Initialized
+INFO - 2024-09-12 14:31:44 --> Security Class Initialized
+DEBUG - 2024-09-12 14:31:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:31:44 --> Input Class Initialized
+INFO - 2024-09-12 14:31:44 --> Language Class Initialized
+ERROR - 2024-09-12 14:31:44 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:31:48 --> Config Class Initialized
+INFO - 2024-09-12 14:31:48 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:31:48 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:31:48 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:31:48 --> URI Class Initialized
+INFO - 2024-09-12 14:31:48 --> Router Class Initialized
+INFO - 2024-09-12 14:31:48 --> Output Class Initialized
+INFO - 2024-09-12 14:31:48 --> Security Class Initialized
+DEBUG - 2024-09-12 14:31:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:31:48 --> Input Class Initialized
+INFO - 2024-09-12 14:31:48 --> Language Class Initialized
+INFO - 2024-09-12 14:31:48 --> Loader Class Initialized
+INFO - 2024-09-12 14:31:48 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:31:48 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:31:48 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:31:48 --> Email Class Initialized
+DEBUG - 2024-09-12 14:31:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:31:48 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:31:48 --> Controller Class Initialized
+INFO - 2024-09-12 14:31:48 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:31:48 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:31:48 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:31:48 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:31:48 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:31:48 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:31:48 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:31:48 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:31:48 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/products.php
+INFO - 2024-09-12 14:31:48 --> Final output sent to browser
+DEBUG - 2024-09-12 14:31:48 --> Total execution time: 0.0815
+INFO - 2024-09-12 14:31:49 --> Config Class Initialized
+INFO - 2024-09-12 14:31:49 --> Hooks Class Initialized
+INFO - 2024-09-12 14:31:49 --> Config Class Initialized
+INFO - 2024-09-12 14:31:49 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:31:49 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:31:49 --> Utf8 Class Initialized
+DEBUG - 2024-09-12 14:31:49 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:31:49 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:31:49 --> URI Class Initialized
+INFO - 2024-09-12 14:31:49 --> URI Class Initialized
+INFO - 2024-09-12 14:31:49 --> Router Class Initialized
+INFO - 2024-09-12 14:31:49 --> Router Class Initialized
+INFO - 2024-09-12 14:31:49 --> Output Class Initialized
+INFO - 2024-09-12 14:31:49 --> Output Class Initialized
+INFO - 2024-09-12 14:31:49 --> Security Class Initialized
+DEBUG - 2024-09-12 14:31:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:31:49 --> Input Class Initialized
+INFO - 2024-09-12 14:31:49 --> Security Class Initialized
+INFO - 2024-09-12 14:31:49 --> Language Class Initialized
+DEBUG - 2024-09-12 14:31:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-09-12 14:31:49 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:31:49 --> Input Class Initialized
+INFO - 2024-09-12 14:31:49 --> Language Class Initialized
+ERROR - 2024-09-12 14:31:49 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:31:51 --> Config Class Initialized
+INFO - 2024-09-12 14:31:51 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:31:51 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:31:51 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:31:51 --> URI Class Initialized
+INFO - 2024-09-12 14:31:51 --> Router Class Initialized
+INFO - 2024-09-12 14:31:51 --> Output Class Initialized
+INFO - 2024-09-12 14:31:51 --> Security Class Initialized
+DEBUG - 2024-09-12 14:31:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:31:51 --> Input Class Initialized
+INFO - 2024-09-12 14:31:51 --> Language Class Initialized
+INFO - 2024-09-12 14:31:51 --> Loader Class Initialized
+INFO - 2024-09-12 14:31:51 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:31:51 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:31:51 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:31:51 --> Email Class Initialized
+DEBUG - 2024-09-12 14:31:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:31:51 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:31:51 --> Controller Class Initialized
+INFO - 2024-09-12 14:31:51 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:31:51 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:31:51 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:31:51 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:31:51 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:31:51 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:31:51 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:31:51 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:31:51 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/product.php
+INFO - 2024-09-12 14:31:51 --> Final output sent to browser
+DEBUG - 2024-09-12 14:31:51 --> Total execution time: 0.0887
+INFO - 2024-09-12 14:31:51 --> Config Class Initialized
+INFO - 2024-09-12 14:31:51 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:31:51 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:31:51 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:31:51 --> Config Class Initialized
+INFO - 2024-09-12 14:31:51 --> URI Class Initialized
+INFO - 2024-09-12 14:31:51 --> Hooks Class Initialized
+INFO - 2024-09-12 14:31:51 --> Router Class Initialized
+DEBUG - 2024-09-12 14:31:51 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:31:51 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:31:51 --> URI Class Initialized
+INFO - 2024-09-12 14:31:51 --> Output Class Initialized
+INFO - 2024-09-12 14:31:51 --> Router Class Initialized
+INFO - 2024-09-12 14:31:51 --> Security Class Initialized
+INFO - 2024-09-12 14:31:51 --> Config Class Initialized
+INFO - 2024-09-12 14:31:51 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:31:51 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:31:51 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:31:51 --> Output Class Initialized
+INFO - 2024-09-12 14:31:51 --> URI Class Initialized
+DEBUG - 2024-09-12 14:31:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:31:51 --> Input Class Initialized
+INFO - 2024-09-12 14:31:51 --> Router Class Initialized
+INFO - 2024-09-12 14:31:51 --> Security Class Initialized
+DEBUG - 2024-09-12 14:31:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:31:51 --> Output Class Initialized
+INFO - 2024-09-12 14:31:51 --> Input Class Initialized
+INFO - 2024-09-12 14:31:51 --> Language Class Initialized
+INFO - 2024-09-12 14:31:51 --> Security Class Initialized
+ERROR - 2024-09-12 14:31:51 --> 404 Page Not Found: Product/assets
+DEBUG - 2024-09-12 14:31:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:31:51 --> Input Class Initialized
+INFO - 2024-09-12 14:31:51 --> Language Class Initialized
+ERROR - 2024-09-12 14:31:51 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:31:51 --> Language Class Initialized
+ERROR - 2024-09-12 14:31:51 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:31:52 --> Config Class Initialized
+INFO - 2024-09-12 14:31:52 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:31:52 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:31:52 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:31:52 --> URI Class Initialized
+INFO - 2024-09-12 14:31:52 --> Router Class Initialized
+INFO - 2024-09-12 14:31:52 --> Output Class Initialized
+INFO - 2024-09-12 14:31:52 --> Security Class Initialized
+DEBUG - 2024-09-12 14:31:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:31:52 --> Input Class Initialized
+INFO - 2024-09-12 14:31:52 --> Language Class Initialized
+ERROR - 2024-09-12 14:31:52 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:32:16 --> Config Class Initialized
+INFO - 2024-09-12 14:32:16 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:32:16 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:32:16 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:32:16 --> URI Class Initialized
+INFO - 2024-09-12 14:32:16 --> Router Class Initialized
+INFO - 2024-09-12 14:32:16 --> Output Class Initialized
+INFO - 2024-09-12 14:32:16 --> Security Class Initialized
+DEBUG - 2024-09-12 14:32:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:32:16 --> Input Class Initialized
+INFO - 2024-09-12 14:32:16 --> Language Class Initialized
+INFO - 2024-09-12 14:32:16 --> Loader Class Initialized
+INFO - 2024-09-12 14:32:16 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:32:16 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:32:16 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:32:16 --> Email Class Initialized
+DEBUG - 2024-09-12 14:32:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:32:16 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:32:16 --> Controller Class Initialized
+INFO - 2024-09-12 14:32:16 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:32:16 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:32:16 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:32:16 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:32:16 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:32:16 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:32:16 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:32:16 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:32:16 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/products.php
+INFO - 2024-09-12 14:32:16 --> Final output sent to browser
+DEBUG - 2024-09-12 14:32:16 --> Total execution time: 0.0949
+INFO - 2024-09-12 14:32:17 --> Config Class Initialized
+INFO - 2024-09-12 14:32:17 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:32:17 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:32:17 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:32:17 --> URI Class Initialized
+INFO - 2024-09-12 14:32:17 --> Router Class Initialized
+INFO - 2024-09-12 14:32:17 --> Output Class Initialized
+INFO - 2024-09-12 14:32:17 --> Security Class Initialized
+DEBUG - 2024-09-12 14:32:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:32:17 --> Input Class Initialized
+INFO - 2024-09-12 14:32:17 --> Language Class Initialized
+ERROR - 2024-09-12 14:32:17 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:32:17 --> Config Class Initialized
+INFO - 2024-09-12 14:32:17 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:32:17 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:32:17 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:32:17 --> URI Class Initialized
+INFO - 2024-09-12 14:32:17 --> Router Class Initialized
+INFO - 2024-09-12 14:32:17 --> Output Class Initialized
+INFO - 2024-09-12 14:32:17 --> Security Class Initialized
+DEBUG - 2024-09-12 14:32:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:32:17 --> Input Class Initialized
+INFO - 2024-09-12 14:32:17 --> Language Class Initialized
+ERROR - 2024-09-12 14:32:17 --> 404 Page Not Found: Assets/home
+INFO - 2024-09-12 14:32:19 --> Config Class Initialized
+INFO - 2024-09-12 14:32:19 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:32:19 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:32:19 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:32:19 --> URI Class Initialized
+INFO - 2024-09-12 14:32:19 --> Router Class Initialized
+INFO - 2024-09-12 14:32:19 --> Output Class Initialized
+INFO - 2024-09-12 14:32:19 --> Security Class Initialized
+DEBUG - 2024-09-12 14:32:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:32:19 --> Input Class Initialized
+INFO - 2024-09-12 14:32:19 --> Language Class Initialized
+INFO - 2024-09-12 14:32:19 --> Loader Class Initialized
+INFO - 2024-09-12 14:32:19 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:32:19 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:32:19 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:32:19 --> Email Class Initialized
+DEBUG - 2024-09-12 14:32:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:32:19 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:32:19 --> Controller Class Initialized
+INFO - 2024-09-12 14:32:19 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:32:19 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:32:19 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:32:19 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:32:19 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:32:19 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:32:19 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:32:19 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:32:19 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/product.php
+INFO - 2024-09-12 14:32:19 --> Final output sent to browser
+DEBUG - 2024-09-12 14:32:19 --> Total execution time: 0.0969
+INFO - 2024-09-12 14:32:19 --> Config Class Initialized
+INFO - 2024-09-12 14:32:19 --> Config Class Initialized
+INFO - 2024-09-12 14:32:19 --> Hooks Class Initialized
+INFO - 2024-09-12 14:32:19 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:32:19 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:32:19 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:32:19 --> URI Class Initialized
+DEBUG - 2024-09-12 14:32:19 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:32:19 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:32:19 --> URI Class Initialized
+INFO - 2024-09-12 14:32:19 --> Router Class Initialized
+INFO - 2024-09-12 14:32:19 --> Router Class Initialized
+INFO - 2024-09-12 14:32:19 --> Output Class Initialized
+INFO - 2024-09-12 14:32:19 --> Security Class Initialized
+INFO - 2024-09-12 14:32:19 --> Output Class Initialized
+DEBUG - 2024-09-12 14:32:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:32:19 --> Input Class Initialized
+INFO - 2024-09-12 14:32:19 --> Security Class Initialized
+INFO - 2024-09-12 14:32:19 --> Language Class Initialized
+ERROR - 2024-09-12 14:32:19 --> 404 Page Not Found: Product/assets
+DEBUG - 2024-09-12 14:32:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:32:19 --> Input Class Initialized
+INFO - 2024-09-12 14:32:19 --> Config Class Initialized
+INFO - 2024-09-12 14:32:19 --> Hooks Class Initialized
+INFO - 2024-09-12 14:32:19 --> Language Class Initialized
+ERROR - 2024-09-12 14:32:19 --> 404 Page Not Found: Product/assets
+DEBUG - 2024-09-12 14:32:19 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:32:19 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:32:19 --> URI Class Initialized
+INFO - 2024-09-12 14:32:19 --> Router Class Initialized
+INFO - 2024-09-12 14:32:19 --> Output Class Initialized
+INFO - 2024-09-12 14:32:19 --> Security Class Initialized
+DEBUG - 2024-09-12 14:32:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:32:19 --> Input Class Initialized
+INFO - 2024-09-12 14:32:19 --> Language Class Initialized
+ERROR - 2024-09-12 14:32:19 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:32:35 --> Config Class Initialized
+INFO - 2024-09-12 14:32:35 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:32:35 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:32:35 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:32:35 --> URI Class Initialized
+INFO - 2024-09-12 14:32:35 --> Router Class Initialized
+INFO - 2024-09-12 14:32:35 --> Output Class Initialized
+INFO - 2024-09-12 14:32:35 --> Security Class Initialized
+DEBUG - 2024-09-12 14:32:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:32:35 --> Input Class Initialized
+INFO - 2024-09-12 14:32:35 --> Language Class Initialized
+INFO - 2024-09-12 14:32:35 --> Loader Class Initialized
+INFO - 2024-09-12 14:32:35 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:32:35 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:32:35 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:32:35 --> Email Class Initialized
+DEBUG - 2024-09-12 14:32:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:32:35 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:32:35 --> Controller Class Initialized
+INFO - 2024-09-12 14:32:35 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:32:35 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:32:35 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:32:35 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:32:35 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:32:35 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:32:35 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:32:35 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:32:35 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/products.php
+INFO - 2024-09-12 14:32:35 --> Final output sent to browser
+DEBUG - 2024-09-12 14:32:35 --> Total execution time: 0.0750
+INFO - 2024-09-12 14:32:38 --> Config Class Initialized
+INFO - 2024-09-12 14:32:38 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:32:38 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:32:38 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:32:38 --> URI Class Initialized
+INFO - 2024-09-12 14:32:38 --> Router Class Initialized
+INFO - 2024-09-12 14:32:38 --> Output Class Initialized
+INFO - 2024-09-12 14:32:38 --> Security Class Initialized
+DEBUG - 2024-09-12 14:32:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:32:38 --> Input Class Initialized
+INFO - 2024-09-12 14:32:38 --> Language Class Initialized
+INFO - 2024-09-12 14:32:38 --> Loader Class Initialized
+INFO - 2024-09-12 14:32:38 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:32:38 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:32:38 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:32:38 --> Email Class Initialized
+DEBUG - 2024-09-12 14:32:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:32:38 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:32:38 --> Controller Class Initialized
+INFO - 2024-09-12 14:32:38 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:32:38 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:32:38 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:32:38 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:32:38 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:32:38 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:32:38 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:32:38 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:32:38 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/product.php
+INFO - 2024-09-12 14:32:38 --> Final output sent to browser
+DEBUG - 2024-09-12 14:32:38 --> Total execution time: 0.1110
+INFO - 2024-09-12 14:32:38 --> Config Class Initialized
+INFO - 2024-09-12 14:32:38 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:32:38 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:32:38 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:32:38 --> Config Class Initialized
+INFO - 2024-09-12 14:32:38 --> Hooks Class Initialized
+INFO - 2024-09-12 14:32:38 --> URI Class Initialized
+DEBUG - 2024-09-12 14:32:38 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:32:38 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:32:38 --> Router Class Initialized
+INFO - 2024-09-12 14:32:38 --> Output Class Initialized
+INFO - 2024-09-12 14:32:38 --> Security Class Initialized
+DEBUG - 2024-09-12 14:32:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:32:38 --> Input Class Initialized
+INFO - 2024-09-12 14:32:38 --> Language Class Initialized
+ERROR - 2024-09-12 14:32:38 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:32:38 --> URI Class Initialized
+INFO - 2024-09-12 14:32:38 --> Config Class Initialized
+INFO - 2024-09-12 14:32:38 --> Hooks Class Initialized
+INFO - 2024-09-12 14:32:38 --> Router Class Initialized
+INFO - 2024-09-12 14:32:38 --> Output Class Initialized
+DEBUG - 2024-09-12 14:32:38 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:32:38 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:32:38 --> Security Class Initialized
+INFO - 2024-09-12 14:32:38 --> URI Class Initialized
+DEBUG - 2024-09-12 14:32:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:32:38 --> Input Class Initialized
+INFO - 2024-09-12 14:32:38 --> Router Class Initialized
+INFO - 2024-09-12 14:32:38 --> Language Class Initialized
+ERROR - 2024-09-12 14:32:38 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:32:38 --> Output Class Initialized
+INFO - 2024-09-12 14:32:38 --> Security Class Initialized
+DEBUG - 2024-09-12 14:32:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:32:38 --> Input Class Initialized
+INFO - 2024-09-12 14:32:38 --> Language Class Initialized
+ERROR - 2024-09-12 14:32:38 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:32:38 --> Config Class Initialized
+INFO - 2024-09-12 14:32:38 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:32:38 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:32:38 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:32:38 --> URI Class Initialized
+INFO - 2024-09-12 14:32:38 --> Router Class Initialized
+INFO - 2024-09-12 14:32:38 --> Output Class Initialized
+INFO - 2024-09-12 14:32:38 --> Security Class Initialized
+DEBUG - 2024-09-12 14:32:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:32:38 --> Input Class Initialized
+INFO - 2024-09-12 14:32:38 --> Language Class Initialized
+ERROR - 2024-09-12 14:32:38 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:32:48 --> Config Class Initialized
+INFO - 2024-09-12 14:32:48 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:32:48 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:32:48 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:32:48 --> URI Class Initialized
+INFO - 2024-09-12 14:32:48 --> Router Class Initialized
+INFO - 2024-09-12 14:32:48 --> Output Class Initialized
+INFO - 2024-09-12 14:32:48 --> Security Class Initialized
+DEBUG - 2024-09-12 14:32:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:32:48 --> Input Class Initialized
+INFO - 2024-09-12 14:32:48 --> Language Class Initialized
+INFO - 2024-09-12 14:32:48 --> Loader Class Initialized
+INFO - 2024-09-12 14:32:48 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:32:48 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:32:48 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:32:48 --> Email Class Initialized
+DEBUG - 2024-09-12 14:32:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:32:48 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:32:48 --> Controller Class Initialized
+INFO - 2024-09-12 14:32:48 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:32:48 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:32:48 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:32:48 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:32:48 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:32:48 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:32:48 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:32:48 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:32:48 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/products.php
+INFO - 2024-09-12 14:32:48 --> Final output sent to browser
+DEBUG - 2024-09-12 14:32:48 --> Total execution time: 0.0959
+INFO - 2024-09-12 14:32:52 --> Config Class Initialized
+INFO - 2024-09-12 14:32:52 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:32:52 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:32:52 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:32:52 --> URI Class Initialized
+INFO - 2024-09-12 14:32:52 --> Router Class Initialized
+INFO - 2024-09-12 14:32:52 --> Output Class Initialized
+INFO - 2024-09-12 14:32:52 --> Security Class Initialized
+DEBUG - 2024-09-12 14:32:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:32:52 --> Input Class Initialized
+INFO - 2024-09-12 14:32:52 --> Language Class Initialized
+INFO - 2024-09-12 14:32:52 --> Loader Class Initialized
+INFO - 2024-09-12 14:32:52 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:32:52 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:32:52 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:32:52 --> Email Class Initialized
+DEBUG - 2024-09-12 14:32:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:32:52 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:32:52 --> Controller Class Initialized
+INFO - 2024-09-12 14:32:52 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:32:52 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:32:52 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:32:52 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:32:52 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:32:52 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:32:52 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:32:52 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:32:52 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/product.php
+INFO - 2024-09-12 14:32:52 --> Final output sent to browser
+DEBUG - 2024-09-12 14:32:52 --> Total execution time: 0.0590
+INFO - 2024-09-12 14:32:52 --> Config Class Initialized
+INFO - 2024-09-12 14:32:52 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:32:52 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:32:52 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:32:52 --> Config Class Initialized
+INFO - 2024-09-12 14:32:52 --> URI Class Initialized
+INFO - 2024-09-12 14:32:52 --> Hooks Class Initialized
+INFO - 2024-09-12 14:32:52 --> Router Class Initialized
+DEBUG - 2024-09-12 14:32:52 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:32:52 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:32:52 --> URI Class Initialized
+INFO - 2024-09-12 14:32:52 --> Output Class Initialized
+INFO - 2024-09-12 14:32:52 --> Security Class Initialized
+INFO - 2024-09-12 14:32:52 --> Router Class Initialized
+DEBUG - 2024-09-12 14:32:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:32:52 --> Input Class Initialized
+INFO - 2024-09-12 14:32:52 --> Output Class Initialized
+INFO - 2024-09-12 14:32:52 --> Language Class Initialized
+INFO - 2024-09-12 14:32:52 --> Security Class Initialized
+ERROR - 2024-09-12 14:32:52 --> 404 Page Not Found: Product/assets
+DEBUG - 2024-09-12 14:32:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:32:52 --> Input Class Initialized
+INFO - 2024-09-12 14:32:52 --> Language Class Initialized
+ERROR - 2024-09-12 14:32:52 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:32:52 --> Config Class Initialized
+INFO - 2024-09-12 14:32:52 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:32:52 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:32:52 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:32:52 --> URI Class Initialized
+INFO - 2024-09-12 14:32:52 --> Router Class Initialized
+INFO - 2024-09-12 14:32:52 --> Output Class Initialized
+INFO - 2024-09-12 14:32:52 --> Security Class Initialized
+DEBUG - 2024-09-12 14:32:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:32:52 --> Input Class Initialized
+INFO - 2024-09-12 14:32:52 --> Language Class Initialized
+ERROR - 2024-09-12 14:32:52 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:38:05 --> Config Class Initialized
+INFO - 2024-09-12 14:38:05 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:38:05 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:38:05 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:38:05 --> URI Class Initialized
+INFO - 2024-09-12 14:38:05 --> Router Class Initialized
+INFO - 2024-09-12 14:38:05 --> Output Class Initialized
+INFO - 2024-09-12 14:38:05 --> Security Class Initialized
+DEBUG - 2024-09-12 14:38:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:38:05 --> Input Class Initialized
+INFO - 2024-09-12 14:38:05 --> Language Class Initialized
+INFO - 2024-09-12 14:38:05 --> Loader Class Initialized
+INFO - 2024-09-12 14:38:05 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:38:05 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:38:05 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:38:05 --> Email Class Initialized
+DEBUG - 2024-09-12 14:38:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:38:05 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:38:05 --> Controller Class Initialized
+INFO - 2024-09-12 14:38:05 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:38:05 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:38:05 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:38:05 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:38:05 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:38:05 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:38:05 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:38:05 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:38:05 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/product.php
+INFO - 2024-09-12 14:38:05 --> Final output sent to browser
+DEBUG - 2024-09-12 14:38:05 --> Total execution time: 0.1445
+INFO - 2024-09-12 14:38:05 --> Config Class Initialized
+INFO - 2024-09-12 14:38:05 --> Hooks Class Initialized
+INFO - 2024-09-12 14:38:05 --> Config Class Initialized
+INFO - 2024-09-12 14:38:05 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:38:05 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:38:05 --> Utf8 Class Initialized
+DEBUG - 2024-09-12 14:38:05 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:38:05 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:38:05 --> URI Class Initialized
+INFO - 2024-09-12 14:38:05 --> Router Class Initialized
+INFO - 2024-09-12 14:38:05 --> Output Class Initialized
+INFO - 2024-09-12 14:38:05 --> Security Class Initialized
+DEBUG - 2024-09-12 14:38:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:38:05 --> Input Class Initialized
+INFO - 2024-09-12 14:38:05 --> Language Class Initialized
+INFO - 2024-09-12 14:38:05 --> URI Class Initialized
+INFO - 2024-09-12 14:38:05 --> Router Class Initialized
+INFO - 2024-09-12 14:38:05 --> Output Class Initialized
+INFO - 2024-09-12 14:38:05 --> Security Class Initialized
+DEBUG - 2024-09-12 14:38:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:38:05 --> Input Class Initialized
+INFO - 2024-09-12 14:38:05 --> Language Class Initialized
+ERROR - 2024-09-12 14:38:05 --> 404 Page Not Found: Product/assets
+ERROR - 2024-09-12 14:38:05 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:38:06 --> Config Class Initialized
+INFO - 2024-09-12 14:38:06 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:38:06 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:38:06 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:38:06 --> URI Class Initialized
+INFO - 2024-09-12 14:38:06 --> Router Class Initialized
+INFO - 2024-09-12 14:38:06 --> Output Class Initialized
+INFO - 2024-09-12 14:38:06 --> Security Class Initialized
+DEBUG - 2024-09-12 14:38:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:38:06 --> Input Class Initialized
+INFO - 2024-09-12 14:38:06 --> Language Class Initialized
+ERROR - 2024-09-12 14:38:06 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:38:14 --> Config Class Initialized
+INFO - 2024-09-12 14:38:14 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:38:14 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:38:14 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:38:14 --> URI Class Initialized
+INFO - 2024-09-12 14:38:14 --> Router Class Initialized
+INFO - 2024-09-12 14:38:14 --> Output Class Initialized
+INFO - 2024-09-12 14:38:14 --> Security Class Initialized
+DEBUG - 2024-09-12 14:38:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:38:14 --> Input Class Initialized
+INFO - 2024-09-12 14:38:14 --> Language Class Initialized
+INFO - 2024-09-12 14:38:14 --> Loader Class Initialized
+INFO - 2024-09-12 14:38:14 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:38:14 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:38:14 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:38:14 --> Email Class Initialized
+DEBUG - 2024-09-12 14:38:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:38:14 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:38:14 --> Controller Class Initialized
+INFO - 2024-09-12 14:38:14 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:38:14 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:38:14 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:38:14 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:38:14 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:38:14 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:38:14 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:38:14 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:38:14 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/product.php
+INFO - 2024-09-12 14:38:14 --> Final output sent to browser
+DEBUG - 2024-09-12 14:38:14 --> Total execution time: 0.0770
+INFO - 2024-09-12 14:38:14 --> Config Class Initialized
+INFO - 2024-09-12 14:38:14 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:38:14 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:38:14 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:38:14 --> URI Class Initialized
+INFO - 2024-09-12 14:38:14 --> Router Class Initialized
+INFO - 2024-09-12 14:38:14 --> Output Class Initialized
+INFO - 2024-09-12 14:38:14 --> Security Class Initialized
+DEBUG - 2024-09-12 14:38:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:38:14 --> Input Class Initialized
+INFO - 2024-09-12 14:38:14 --> Language Class Initialized
+ERROR - 2024-09-12 14:38:14 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:38:14 --> Config Class Initialized
+INFO - 2024-09-12 14:38:14 --> Hooks Class Initialized
+INFO - 2024-09-12 14:38:14 --> Config Class Initialized
+INFO - 2024-09-12 14:38:14 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:38:14 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:38:14 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:38:14 --> URI Class Initialized
+INFO - 2024-09-12 14:38:14 --> Router Class Initialized
+INFO - 2024-09-12 14:38:14 --> Output Class Initialized
+INFO - 2024-09-12 14:38:14 --> Security Class Initialized
+DEBUG - 2024-09-12 14:38:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:38:14 --> Input Class Initialized
+INFO - 2024-09-12 14:38:14 --> Language Class Initialized
+ERROR - 2024-09-12 14:38:14 --> 404 Page Not Found: Product/assets
+DEBUG - 2024-09-12 14:38:14 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:38:14 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:38:14 --> URI Class Initialized
+INFO - 2024-09-12 14:38:14 --> Router Class Initialized
+INFO - 2024-09-12 14:38:14 --> Output Class Initialized
+INFO - 2024-09-12 14:38:14 --> Security Class Initialized
+DEBUG - 2024-09-12 14:38:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:38:14 --> Input Class Initialized
+INFO - 2024-09-12 14:38:14 --> Language Class Initialized
+ERROR - 2024-09-12 14:38:14 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:38:14 --> Config Class Initialized
+INFO - 2024-09-12 14:38:14 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:38:14 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:38:14 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:38:14 --> URI Class Initialized
+INFO - 2024-09-12 14:38:14 --> Router Class Initialized
+INFO - 2024-09-12 14:38:14 --> Output Class Initialized
+INFO - 2024-09-12 14:38:14 --> Security Class Initialized
+DEBUG - 2024-09-12 14:38:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:38:14 --> Input Class Initialized
+INFO - 2024-09-12 14:38:14 --> Language Class Initialized
+ERROR - 2024-09-12 14:38:14 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:38:19 --> Config Class Initialized
+INFO - 2024-09-12 14:38:19 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:38:19 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:38:19 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:38:19 --> URI Class Initialized
+INFO - 2024-09-12 14:38:19 --> Router Class Initialized
+INFO - 2024-09-12 14:38:19 --> Output Class Initialized
+INFO - 2024-09-12 14:38:19 --> Security Class Initialized
+DEBUG - 2024-09-12 14:38:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:38:19 --> Input Class Initialized
+INFO - 2024-09-12 14:38:19 --> Language Class Initialized
+INFO - 2024-09-12 14:38:19 --> Loader Class Initialized
+INFO - 2024-09-12 14:38:19 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:38:19 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:38:19 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:38:19 --> Email Class Initialized
+DEBUG - 2024-09-12 14:38:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:38:19 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:38:19 --> Controller Class Initialized
+INFO - 2024-09-12 14:38:19 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:38:19 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:38:19 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:38:19 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:38:19 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:38:19 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:38:19 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:38:19 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:38:19 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/product.php
+INFO - 2024-09-12 14:38:19 --> Final output sent to browser
+DEBUG - 2024-09-12 14:38:19 --> Total execution time: 0.0918
+INFO - 2024-09-12 14:38:19 --> Config Class Initialized
+INFO - 2024-09-12 14:38:19 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:38:19 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:38:19 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:38:19 --> URI Class Initialized
+INFO - 2024-09-12 14:38:19 --> Router Class Initialized
+INFO - 2024-09-12 14:38:19 --> Output Class Initialized
+INFO - 2024-09-12 14:38:19 --> Security Class Initialized
+INFO - 2024-09-12 14:38:19 --> Config Class Initialized
+INFO - 2024-09-12 14:38:19 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:38:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:38:19 --> Input Class Initialized
+INFO - 2024-09-12 14:38:19 --> Language Class Initialized
+DEBUG - 2024-09-12 14:38:19 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:38:19 --> Utf8 Class Initialized
+ERROR - 2024-09-12 14:38:19 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:38:19 --> URI Class Initialized
+INFO - 2024-09-12 14:38:19 --> Router Class Initialized
+INFO - 2024-09-12 14:38:19 --> Output Class Initialized
+INFO - 2024-09-12 14:38:19 --> Security Class Initialized
+DEBUG - 2024-09-12 14:38:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:38:19 --> Input Class Initialized
+INFO - 2024-09-12 14:38:19 --> Language Class Initialized
+ERROR - 2024-09-12 14:38:19 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:38:19 --> Config Class Initialized
+INFO - 2024-09-12 14:38:19 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:38:19 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:38:19 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:38:19 --> URI Class Initialized
+INFO - 2024-09-12 14:38:19 --> Router Class Initialized
+INFO - 2024-09-12 14:38:20 --> Output Class Initialized
+INFO - 2024-09-12 14:38:20 --> Security Class Initialized
+DEBUG - 2024-09-12 14:38:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:38:20 --> Input Class Initialized
+INFO - 2024-09-12 14:38:20 --> Language Class Initialized
+ERROR - 2024-09-12 14:38:20 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:38:20 --> Config Class Initialized
+INFO - 2024-09-12 14:38:20 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:38:20 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:38:20 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:38:20 --> URI Class Initialized
+INFO - 2024-09-12 14:38:20 --> Router Class Initialized
+INFO - 2024-09-12 14:38:20 --> Output Class Initialized
+INFO - 2024-09-12 14:38:20 --> Security Class Initialized
+DEBUG - 2024-09-12 14:38:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:38:20 --> Input Class Initialized
+INFO - 2024-09-12 14:38:20 --> Language Class Initialized
+ERROR - 2024-09-12 14:38:20 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:38:26 --> Config Class Initialized
+INFO - 2024-09-12 14:38:26 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:38:26 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:38:26 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:38:26 --> URI Class Initialized
+INFO - 2024-09-12 14:38:26 --> Router Class Initialized
+INFO - 2024-09-12 14:38:26 --> Output Class Initialized
+INFO - 2024-09-12 14:38:26 --> Security Class Initialized
+DEBUG - 2024-09-12 14:38:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:38:26 --> Input Class Initialized
+INFO - 2024-09-12 14:38:26 --> Language Class Initialized
+INFO - 2024-09-12 14:38:26 --> Loader Class Initialized
+INFO - 2024-09-12 14:38:26 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:38:26 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:38:26 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:38:26 --> Email Class Initialized
+DEBUG - 2024-09-12 14:38:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:38:26 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:38:26 --> Controller Class Initialized
+INFO - 2024-09-12 14:38:26 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:38:26 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:38:26 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:38:26 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:38:26 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:38:26 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:38:26 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:38:26 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:38:26 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/product.php
+INFO - 2024-09-12 14:38:26 --> Final output sent to browser
+DEBUG - 2024-09-12 14:38:26 --> Total execution time: 0.0622
+INFO - 2024-09-12 14:38:26 --> Config Class Initialized
+INFO - 2024-09-12 14:38:26 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:38:26 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:38:26 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:38:26 --> URI Class Initialized
+INFO - 2024-09-12 14:38:26 --> Router Class Initialized
+INFO - 2024-09-12 14:38:26 --> Output Class Initialized
+INFO - 2024-09-12 14:38:26 --> Security Class Initialized
+DEBUG - 2024-09-12 14:38:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:38:26 --> Input Class Initialized
+INFO - 2024-09-12 14:38:26 --> Language Class Initialized
+ERROR - 2024-09-12 14:38:26 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:38:26 --> Config Class Initialized
+INFO - 2024-09-12 14:38:26 --> Config Class Initialized
+INFO - 2024-09-12 14:38:26 --> Hooks Class Initialized
+INFO - 2024-09-12 14:38:26 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:38:26 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:38:26 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:38:26 --> URI Class Initialized
+INFO - 2024-09-12 14:38:26 --> Router Class Initialized
+DEBUG - 2024-09-12 14:38:26 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:38:26 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:38:26 --> Output Class Initialized
+INFO - 2024-09-12 14:38:26 --> URI Class Initialized
+INFO - 2024-09-12 14:38:26 --> Security Class Initialized
+INFO - 2024-09-12 14:38:26 --> Router Class Initialized
+DEBUG - 2024-09-12 14:38:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:38:26 --> Input Class Initialized
+INFO - 2024-09-12 14:38:26 --> Output Class Initialized
+INFO - 2024-09-12 14:38:26 --> Security Class Initialized
+DEBUG - 2024-09-12 14:38:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:38:26 --> Input Class Initialized
+INFO - 2024-09-12 14:38:26 --> Language Class Initialized
+INFO - 2024-09-12 14:38:26 --> Language Class Initialized
+ERROR - 2024-09-12 14:38:26 --> 404 Page Not Found: Product/assets
+ERROR - 2024-09-12 14:38:26 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:40:19 --> Config Class Initialized
+INFO - 2024-09-12 14:40:19 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:40:19 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:40:19 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:40:19 --> URI Class Initialized
+INFO - 2024-09-12 14:40:19 --> Router Class Initialized
+INFO - 2024-09-12 14:40:19 --> Output Class Initialized
+INFO - 2024-09-12 14:40:19 --> Security Class Initialized
+DEBUG - 2024-09-12 14:40:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:40:19 --> Input Class Initialized
+INFO - 2024-09-12 14:40:19 --> Language Class Initialized
+INFO - 2024-09-12 14:40:19 --> Loader Class Initialized
+INFO - 2024-09-12 14:40:19 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:40:19 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:40:19 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:40:19 --> Email Class Initialized
+DEBUG - 2024-09-12 14:40:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:40:19 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:40:19 --> Controller Class Initialized
+INFO - 2024-09-12 14:40:19 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:40:19 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:40:19 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:40:19 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:40:19 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:40:19 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:40:19 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:40:19 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:40:19 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/product.php
+INFO - 2024-09-12 14:40:19 --> Final output sent to browser
+DEBUG - 2024-09-12 14:40:19 --> Total execution time: 0.3998
+INFO - 2024-09-12 14:40:20 --> Config Class Initialized
+INFO - 2024-09-12 14:40:20 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:40:20 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:40:20 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:40:20 --> URI Class Initialized
+INFO - 2024-09-12 14:40:20 --> Config Class Initialized
+INFO - 2024-09-12 14:40:20 --> Hooks Class Initialized
+INFO - 2024-09-12 14:40:20 --> Router Class Initialized
+INFO - 2024-09-12 14:40:20 --> Output Class Initialized
+DEBUG - 2024-09-12 14:40:20 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:40:20 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:40:20 --> URI Class Initialized
+INFO - 2024-09-12 14:40:20 --> Security Class Initialized
+DEBUG - 2024-09-12 14:40:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:40:20 --> Input Class Initialized
+INFO - 2024-09-12 14:40:20 --> Language Class Initialized
+ERROR - 2024-09-12 14:40:20 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:40:20 --> Router Class Initialized
+INFO - 2024-09-12 14:40:20 --> Output Class Initialized
+INFO - 2024-09-12 14:40:20 --> Security Class Initialized
+DEBUG - 2024-09-12 14:40:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:40:20 --> Input Class Initialized
+INFO - 2024-09-12 14:40:20 --> Language Class Initialized
+INFO - 2024-09-12 14:40:20 --> Config Class Initialized
+INFO - 2024-09-12 14:40:20 --> Hooks Class Initialized
+ERROR - 2024-09-12 14:40:20 --> 404 Page Not Found: Product/assets
+DEBUG - 2024-09-12 14:40:20 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:40:20 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:40:20 --> URI Class Initialized
+INFO - 2024-09-12 14:40:20 --> Router Class Initialized
+INFO - 2024-09-12 14:40:20 --> Output Class Initialized
+INFO - 2024-09-12 14:40:20 --> Security Class Initialized
+DEBUG - 2024-09-12 14:40:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:40:20 --> Input Class Initialized
+INFO - 2024-09-12 14:40:20 --> Language Class Initialized
+ERROR - 2024-09-12 14:40:20 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:41:03 --> Config Class Initialized
+INFO - 2024-09-12 14:41:03 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:41:03 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:41:03 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:41:03 --> URI Class Initialized
+INFO - 2024-09-12 14:41:03 --> Router Class Initialized
+INFO - 2024-09-12 14:41:03 --> Output Class Initialized
+INFO - 2024-09-12 14:41:03 --> Security Class Initialized
+DEBUG - 2024-09-12 14:41:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:41:03 --> Input Class Initialized
+INFO - 2024-09-12 14:41:03 --> Language Class Initialized
+INFO - 2024-09-12 14:41:03 --> Loader Class Initialized
+INFO - 2024-09-12 14:41:03 --> Helper loaded: url_helper
+INFO - 2024-09-12 14:41:03 --> Helper loaded: file_helper
+INFO - 2024-09-12 14:41:03 --> Database Driver Class Initialized
+INFO - 2024-09-12 14:41:03 --> Email Class Initialized
+DEBUG - 2024-09-12 14:41:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-09-12 14:41:03 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-12 14:41:03 --> Controller Class Initialized
+INFO - 2024-09-12 14:41:03 --> Model "Contact_model" initialized
+INFO - 2024-09-12 14:41:03 --> Model "ProductGalleryModel" initialized
+INFO - 2024-09-12 14:41:03 --> Model "Home_model" initialized
+INFO - 2024-09-12 14:41:03 --> Helper loaded: download_helper
+INFO - 2024-09-12 14:41:03 --> Helper loaded: form_helper
+INFO - 2024-09-12 14:41:03 --> Form Validation Class Initialized
+INFO - 2024-09-12 14:41:03 --> Model "ProductModel" initialized
+DEBUG - 2024-09-12 14:41:03 --> Email class already loaded. Second attempt ignored.
+INFO - 2024-09-12 14:41:03 --> File loaded: C:\xampp\htdocs\flow_smart\application\views\home/product.php
+INFO - 2024-09-12 14:41:03 --> Final output sent to browser
+DEBUG - 2024-09-12 14:41:03 --> Total execution time: 0.0798
+INFO - 2024-09-12 14:41:03 --> Config Class Initialized
+INFO - 2024-09-12 14:41:03 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:41:03 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:41:03 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:41:03 --> URI Class Initialized
+INFO - 2024-09-12 14:41:03 --> Router Class Initialized
+INFO - 2024-09-12 14:41:03 --> Output Class Initialized
+INFO - 2024-09-12 14:41:03 --> Security Class Initialized
+DEBUG - 2024-09-12 14:41:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:41:03 --> Input Class Initialized
+INFO - 2024-09-12 14:41:03 --> Language Class Initialized
+ERROR - 2024-09-12 14:41:03 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:41:03 --> Config Class Initialized
+INFO - 2024-09-12 14:41:03 --> Hooks Class Initialized
+DEBUG - 2024-09-12 14:41:03 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:41:03 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:41:03 --> URI Class Initialized
+INFO - 2024-09-12 14:41:03 --> Router Class Initialized
+INFO - 2024-09-12 14:41:03 --> Config Class Initialized
+INFO - 2024-09-12 14:41:03 --> Hooks Class Initialized
+INFO - 2024-09-12 14:41:03 --> Output Class Initialized
+DEBUG - 2024-09-12 14:41:03 --> UTF-8 Support Enabled
+INFO - 2024-09-12 14:41:03 --> Utf8 Class Initialized
+INFO - 2024-09-12 14:41:03 --> Security Class Initialized
+INFO - 2024-09-12 14:41:03 --> URI Class Initialized
+DEBUG - 2024-09-12 14:41:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:41:03 --> Input Class Initialized
+INFO - 2024-09-12 14:41:03 --> Router Class Initialized
+INFO - 2024-09-12 14:41:03 --> Language Class Initialized
+INFO - 2024-09-12 14:41:03 --> Output Class Initialized
+ERROR - 2024-09-12 14:41:03 --> 404 Page Not Found: Product/assets
+INFO - 2024-09-12 14:41:03 --> Security Class Initialized
+DEBUG - 2024-09-12 14:41:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-12 14:41:03 --> Input Class Initialized
+INFO - 2024-09-12 14:41:03 --> Language Class Initialized
+ERROR - 2024-09-12 14:41:03 --> 404 Page Not Found: Product/assets

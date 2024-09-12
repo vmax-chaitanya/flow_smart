@@ -37,7 +37,7 @@
                     <div class="col-lg-6 col-md-12">
                         <div class="main-banner-content">
                             <h1>FLOW SMRT INC</h1>
-                            <p>“A MSME Registered company”
+                            <p>
                                 An ISO 9001-2015 Certified Company is manufacturer and exporter of Food / Pharma /
                                 Medical Grade rubbers products.</p>
 
@@ -54,10 +54,10 @@
 
                     <div class="col-lg-6 col-md-12">
                         <div class="main-banner-image text-center">
-                            <img src="assets/img/banner/pipe.png" alt="image">
-                            <img src="assets/img/banner/1.png" alt="image">
-                            <img src="assets/img/banner/2.png" alt="image">
-                            <img src="assets/img/banner/3.png" alt="image">
+                            <img src="assets/img/banner/pipe1.png" alt="image">
+                            <img src="assets/img/banner/110.png" alt="image">
+                            <img src="assets/img/banner/111.png" alt="image">
+                            <img src="assets/img/banner/112.png" alt="image">
                         </div>
                     </div>
                 </div>
@@ -66,7 +66,7 @@
                     <div class="col-lg-6 col-md-12">
                         <div class="main-banner-content">
                             <h1>FLOW SMRT INC</h1>
-                            <p>“A MSME Registered company”
+                            <p>
                                 An ISO 9001-2015 Certified Company is manufacturer and exporter of Food / Pharma /
                                 Medical Grade rubbers products.</p>
 
@@ -83,10 +83,10 @@
 
                     <div class="col-lg-6 col-md-12">
                         <div class="main-banner-image text-center">
-                            <img src="assets/img/banner/pipe.png" alt="image">
-                            <img src="assets/img/banner/1.png" alt="image">
-                            <img src="assets/img/banner/2.png" alt="image">
-                            <img src="assets/img/banner/3.png" alt="image">
+                            <img src="assets/img/banner/pipe2.png" alt="image">
+                            <img src="assets/img/banner/110.png" alt="image">
+                            <img src="assets/img/banner/111.png" alt="image">
+                            <img src="assets/img/banner/112.png" alt="image">
                         </div>
                     </div>
                 </div>
@@ -95,7 +95,7 @@
                     <div class="col-lg-6 col-md-12">
                         <div class="main-banner-content">
                             <h1>FLOW SMRT INC</h1>
-                            <p>“A MSME Registered company”
+                            <p>
                                 An ISO 9001-2015 Certified Company is manufacturer and exporter of Food / Pharma /
                                 Medical Grade rubbers products.</p>
 
@@ -112,10 +112,10 @@
 
                     <div class="col-lg-6 col-md-12">
                         <div class="main-banner-image text-center">
-                            <img src="assets/img/banner/pipe.png" alt="image">
-                            <img src="assets/img/banner/1.png" alt="image">
-                            <img src="assets/img/banner/2.png" alt="image">
-                            <img src="assets/img/banner/3.png" alt="image">
+                            <img src="assets/img/banner/pipe1.png" alt="image">
+                            <img src="assets/img/banner/110.png" alt="image">
+                            <img src="assets/img/banner/111.png" alt="image">
+                            <img src="assets/img/banner/112.png" alt="image">
                         </div>
                     </div>
                 </div>
@@ -138,7 +138,7 @@
         </div>
 
         <div class="overlay"></div>
-        <div class="banner-shape1"><img src="assets/img/banner/pipes.png" alt="image"></div>
+        <!-- <div class="banner-shape1"><img src="assets/img/banner/pipes1.png" alt="image"></div> -->
     </div>
     <!-- End Main Banner -->
 
@@ -149,7 +149,7 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="about-content">
                         <h2>flow-inc Story</h2>
-                        <span class="sub-title">A little story about us</span>
+                        <!-- <span class="sub-title">A little story about us</span> -->
                         <p>It is a long established fact that a reader will be distracted by the readable content of a
                             page when looking at its layout. The point of using Lorem Ipsum is that it has more-or-less
                             normal distribution of letters, as opposed to using 'Content here, content here', making it
@@ -208,7 +208,7 @@
                         <div class="row">
                             <?php
                             foreach ($products as $key => $product) {
-                                if ($key < 5) {
+                                if ($key <= 5) {
                                     ?>
                                     <div class="col-lg-4 col-md-6 col-sm-6">
                                         <div class="single-products-box mb-30">
@@ -271,12 +271,12 @@
     <!-- End Advantages Area -->
 
     <!-- Start Feedback Area -->
-    <section class="feedback-area ptb-100 bg-ebf5e7">
+    <!-- <section class="feedback-area ptb-100 bg-ebf5e7">
         <div class="container">
             <div class="section-title">
                 <h2>What Our Customers Say</h2>
-                <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et dolore magna aliqua.</p> -->
+               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                    et dolore magna aliqua.</p> 
             </div>
 
             <div class="feedback-slides owl-carousel owl-theme">
@@ -302,13 +302,13 @@
                             <h3>
                                 <?php echo $val['name']; ?>
                             </h3>
-                            <!-- <span>Founder Lister Group</span> -->
+                           <span>Founder Lister Group</span> 
                         </div>
                     </div>
                 <?php } ?>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- End Feedback Area -->
 
     <!-- Start Blog Area -->
