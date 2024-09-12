@@ -4,7 +4,7 @@
                 <div class="container">
                     <div class="flow-inc-responsive-menu">
                         <div class="logo">
-                            <a href="index.html">
+                            <a href="<?php echo base_url();?>">
                                 <img src="<?php echo base_url();?>assets/img/logo-11.png" alt="logo">
                             </a>
                         </div>
@@ -15,7 +15,7 @@
             <div class="flow-inc-nav">
                 <div class="container-fluid">
                     <nav class="navbar navbar-expand-md navbar-light">
-                        <a class="navbar-brand" href="index.html">
+                        <a class="navbar-brand" href="<?php echo base_url();?>">
                             <img src="<?php echo base_url();?>assets/img/logo-11.png" alt="logo" width="200px" height="130px"
                             >
                         </a>
@@ -108,9 +108,9 @@
 
                                 <li class="nav-item"><a href="<?php echo base_url(); ?>about" class="nav-link">About Us</a></li>
 
-                                <li class="nav-item"><a href="<?php echo base_url(); ?>products" class="nav-link">Productcs</a></li>
+                                <li class="nav-item"><a href="<?php echo base_url(); ?>products" class="nav-link">Products</a></li>
 
-                                <li class="nav-item"><a href="<?php echo base_url(); ?>blog" class="nav-link">Blog</a></li>
+                                <!-- <li class="nav-item"><a href="<?php echo base_url(); ?>blog" class="nav-link">Blog</a></li> -->
                             
                                 <li class="nav-item"><a href="<?php echo base_url(); ?>contact" class="nav-link">Contact</a></li>
                             </ul>

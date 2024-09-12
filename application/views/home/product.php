@@ -108,13 +108,13 @@
                     <div class="col-lg-12 col-md-12">
                         <div class="tab products-details-tab">
                             <ul class="tabs">
-                                <li><a href="#">
+                                <!-- <li><a href="#">
                                      Description
                                 </a></li>
                                 
                                 <li><a href="#">
                                      Characteristics
-                                </a></li>
+                                </a></li> -->
 
                                 <li><a href="#">
                                      Applications
@@ -128,7 +128,7 @@
                             </ul>
 
                             <div class="tab-content">
-                                <div class="tabs-item">
+                                <!-- <div class="tabs-item">
                                     <div class="products-details-tab-content">
                                         <p><?=($product['description'])?$product['description']: '';?></p>
                                     </div>
@@ -138,7 +138,7 @@
                                     <div class="products-details-tab-content">
                                         <?=($product['description'])?$product['characteristics']: '';?>
                                     </div>
-                                </div>
+                                </div> -->
 
                                 <div class="tabs-item">
                                     <div class="products-details-tab-content">

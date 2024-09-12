@@ -7,7 +7,7 @@
                             <img src="<?php echo base_url();?>assets/img/logo-11.png" alt="logo" width="200px" height="130px"
                             >
                             </a>
-                            <p>A MSME Registered company” An ISO 9001-2015 Certified Company is manufacturer and exporter of Food / Pharma / Medical Grade rubbers products</p>
+                            <p>Flowsmart inc Registered company” An ISO 9001-2015 Certified Company is manufacturer and exporter of Food / Pharma / Medical Grade rubbers products</p>
                             <ul class="social">
                                 <li><a href="https://facebook.com/" target="_blank"><i class='bx bxl-facebook'></i></a></li>
                                 <li><a href="https://twitter.com/" target="_blank"><i class='bx bxl-twitter'></i></a></li>

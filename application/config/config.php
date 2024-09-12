@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 
-$config['base_url'] = "https://unvfuture.com/project/flow_smart/";
+$config['base_url'] = "http://localhost/flow_smart/";
 
 
 /*
