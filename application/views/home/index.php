@@ -36,7 +36,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="main-banner-content">
-                            <h1>FLOW SMRT INC</h1>
+                            <h1>FLOW SMRT </h1>
                             <p>
                                 An ISO 9001-2015 Certified Company is manufacturer and exporter of Food / Pharma /
                                 Medical Grade rubbers products.</p>
@@ -65,7 +65,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="main-banner-content">
-                            <h1>FLOW SMRT INC</h1>
+                            <h1>FLOW SMRT </h1>
                             <p>
                                 An ISO 9001-2015 Certified Company is manufacturer and exporter of Food / Pharma /
                                 Medical Grade rubbers products.</p>
@@ -94,7 +94,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="main-banner-content">
-                            <h1>FLOW SMRT INC</h1>
+                            <h1>FLOW SMRT</h1>
                             <p>
                                 An ISO 9001-2015 Certified Company is manufacturer and exporter of Food / Pharma /
                                 Medical Grade rubbers products.</p>
@@ -148,7 +148,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="about-content">
-                        <h2>flow-inc Story</h2>
+                        <h2>flow-smart Story</h2>
                         <!-- <span class="sub-title">A little story about us</span> -->
                         <p>It is a long established fact that a reader will be distracted by the readable content of a
                             page when looking at its layout. The point of using Lorem Ipsum is that it has more-or-less
@@ -188,7 +188,7 @@
     <section class="products-area ptb-100 bg-ebf5e7">
         <div class="container">
             <div class="section-title">
-                <h2>flow-inc Products</h2>
+                <h2> Products</h2>
                 <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
                     et dolore magna aliqua.</p> -->
             </div>

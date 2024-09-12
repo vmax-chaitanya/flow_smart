@@ -39,7 +39,7 @@
                             <h3>Contacts</h3>
 
                             <ul class="footer-contact-info">
-                                <li><span>Address:</span> 784 Adam Street Ohio-45036, USA</li>
+                                <li><span>Address:</span>213 Nesbitt Dr ,Seaford ,USA</li>
                                 <li><span>Email:</span> Sales@flowsmart.com</li>
                                 <li><span>Phone:</span> <a href="tel:55587123456">+55 587 123456</a></li>
                                 <!-- <li><span>Fax:</span> <a href="tel:447854578964">+44 785 4578964</a></li> -->
@@ -67,7 +67,7 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-6 col-md-6">
-                            <p>© flow-inc is Proudly Owned by <a href="https://envytheme.com/" target="_blank">EnvyTheme</a></p>
+                            <p>© flow-smart is Proudly Owned by <a href="#" target="_blank">Flow smart</a></p>
                         </div>
 
                         <div class="col-lg-6 col-md-6">

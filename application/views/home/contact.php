@@ -67,7 +67,7 @@
                             </div>
 
                             <h3>Location Here</h3>
-                            <p><a href="#" target="_blank">784 Adam Street Ohio-45036, USA</a></p>
+                            <p><a href="#" target="_blank">213 Nesbitt Dr ,Seaford ,USA</a></p>
                         </div>
                     </div>
 
